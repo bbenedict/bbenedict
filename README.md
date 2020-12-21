@@ -14,7 +14,7 @@ I'm going to do the infamous 100 days of code. These are my areas of focus
   * Fullstack D3js
   * React 16 exploration of hooks
 * Full stack 
-  * React/Node/Mongo (otherwise known as the project that will never be done)
+  * React/Express/Node/Mongo (otherwise known as the project that will never be done)
   * React/Express/Node/MySQL (otherwise known as my day job)
   * GraphQL serverless 
 * And now for something completely different
