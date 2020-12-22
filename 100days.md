@@ -1,8 +1,8 @@
 ### 100 days of ~~coding~~ learning something technical
 
 I'm going to do something along the lines of the 100 days of code project. 
-But instead of coding a single project, and I going to try out different things
-like development enviroments, technologies and training materials.  So maybe I
+Instead of coding a single project, I am going to try out different areas
+like development enviroments, technologies and languages.  So maybe I
 should call it 100 days of learning something technical.
 
 These are my areas of focus
@@ -25,4 +25,4 @@ These are my areas of focus
   
 ## day 1
 
-Linked my github repo to codesandbox.io and started two projects.  Second project was a react app where I installed style-components to observe the package life cycle using codesandbox.io.  I see a ton of uses for https://codesandbox.io
+Linked my github repo to codesandbox.io and started two projects.  Second project was a react app where I installed style-components to observe the package life cycle using codesandbox.io.  I see a ton of uses for https://codesandbox.io.
