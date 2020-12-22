@@ -2,9 +2,14 @@
 
 Coming soon...
 
-### 100 days of code 2021
+### Sort of 100 days of projects but not relaly 100 days
 
-I'm going to do the infamous 100 days of code. These are my areas of focus
+I'm going to do something along the lines of the 100 days of code project. 
+But instead of coding a single project, and I going to try out different things
+like development enviroments, technologies and training materials.  So maybe I
+should call it 100 days of learning something technical.
+
+These are my areas of focus
 
 * ML/AI
   * Coursera ML/AI courses
