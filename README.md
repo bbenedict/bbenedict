@@ -1,7 +1,5 @@
 ### About me
 
-Bob Benedict
-
 * CTO/VP of Engineering and life time software developer
 * Hands on technology executive with experience leading large teams (45+ team members)
 * Started coding at 14, judging from my picture that was quite a while ago
