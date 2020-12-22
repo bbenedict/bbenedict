@@ -1,3 +1,5 @@
+### 100 days of ~~coding~~ ~~learning~~ learning something technical
+
 I'm going to do something along the lines of the 100 days of code project. 
 But instead of coding a single project, and I going to try out different things
 like development enviroments, technologies and training materials.  So maybe I
