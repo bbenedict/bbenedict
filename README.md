@@ -5,7 +5,7 @@
 * Started coding at 14, judging from my picture that was quite a while ago
 * Spent a lot of my career building e-learning and content systems
 * Was lucky enough to work on the first OLAP server Essbase 
-* Currently I live in Napa after escaping Silicon Valley for a different pace of life
+* Currently living in Napa after escaping Silicon Valley for a different pace of life
 
 ### About my repo
 
