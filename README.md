@@ -4,6 +4,8 @@ Coming soon...
 
 ### Sort of 100 days of projects but not relaly 100 days
 
+[100 days of learnings something project](https://github.com/bbenedict/bbenedict/blob/main/100days.md)
+
 I'm going to do something along the lines of the 100 days of code project. 
 But instead of coding a single project, and I going to try out different things
 like development enviroments, technologies and training materials.  So maybe I
