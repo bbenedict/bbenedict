@@ -25,4 +25,4 @@ These are my areas of focus
   
 ## day 1
 
-Linked my github repo to codesadnbox.io and started two projects.  Second project was a react app where I installed style-components to observer the package life cycle using codesandbox.io.  I see a ton of uses for codesadnbox.io
+Linked my github repo to codesandbox.io and started two projects.  Second project was a react app where I installed style-components to observe the package life cycle using codesandbox.io.  I see a ton of uses for https://codesandbox.io
