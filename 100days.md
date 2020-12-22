@@ -1,4 +1,4 @@
-### 100 days of ~~coding~~ ~~learning~~ learning something technical
+### 100 days of ~~coding~~ learning something technical
 
 I'm going to do something along the lines of the 100 days of code project. 
 But instead of coding a single project, and I going to try out different things
