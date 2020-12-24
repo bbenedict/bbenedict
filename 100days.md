@@ -26,3 +26,8 @@ These are my areas of focus
 ## day 1
 
 Linked my github repo to codesandbox.io and started two projects.  Second project was a react app where I installed style-components to observe the package life cycle using codesandbox.io.  I see a ton of uses for https://codesandbox.io.
+
+## day 2
+
+It's time for my next programmng assignment from [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning).  "Now you will implement the cost function and gradient for the neural network".  I completed the cost function today and will tackle the gradient next.  There is a HUGE difference in the learning between auditing the course versus completing all the programing exercises.  The course is taught by [Andrew Ng](https://www.andrewng.org/), who is an Adjunct Professor from Stanford.  He's one of the best teachers I have ever had in the computer science field.  I can't recommend this course and Professor Ng enough.  I am also doing all my assignments in MATLAB using [MathWorks](https://www.mathworks.com/), which is another great online development environment.
+
