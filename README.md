@@ -9,6 +9,6 @@
 
 ### About my repo
 
-[100 days of learning something project](https://github.com/bbenedict/bbenedict/blob/main/100days.md)
+[100 days of learning project](https://github.com/bbenedict/bbenedict/blob/main/100days.md)
 
  
