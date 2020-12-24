@@ -16,8 +16,7 @@ These are my areas of focus
   * React 16 exploration of hooks
 * Full stack 
   * React/Express/Node/Mongo (otherwise known as the project that will never be done)
-  * React/Express/Node/MySQL (otherwise known as my day job)
-  * GraphQL serverless 
+  * React + GraphQL 
 * And now for something completely different
   * Smalltalk best practices
   * A console in Rust (saw this somewhere)
