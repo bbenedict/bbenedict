@@ -30,3 +30,6 @@ Linked my github repo to codesandbox.io and started two projects.  Second projec
 
 It's time for my next programmng assignment from [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning).  "Now you will implement the cost function and gradient for the neural network".  I completed the cost function today and will tackle the gradient next.  There is a HUGE difference in learning between auditing the course versus doing all the programing exercises.  The course is taught by [Andrew Ng](https://www.andrewng.org/), who is an Adjunct Professor from Stanford.  I can't recommend this course and Professor Ng enough.  I am also doing all my assignments in MATLAB using [MathWorks](https://www.mathworks.com/), which is another great online development environment.
 
+## day 3
+
+"Now, you will implement the backpropagation algorithm."  Assignment complete for backpropagation and gradient checking.  Time for egg nog!
