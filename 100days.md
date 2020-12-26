@@ -38,6 +38,6 @@ It's time for my next programmng assignment from [Coursera Machine Learning](htt
 
 Happy Holidays to everyone and all the ways people of the world celebrate the holidays.  We exchanged gifts this morning and, well, what I received pretty much changed my agenda for day 3.  Not sure this qualifies as learning but this is some serious fun.  Who you gonna call?
 
-<img src="./IMG_2669.jpg" alt="Legos Ghostbusters box|" title="Legos Ghostbusters bo" width="150" height="100" />
+<img src="./IMG_2669.jpg" alt="Legos Ghostbusters box|" title="Legos Ghostbusters box" width="250"/>
+<img src="./IMG_2667.jpg" alt="Legos Ghostbusters assembly in action|" title="Legos Ghostbusters assembly in action" width="250"/>
 
-![Legos Ghostbusters assembly in action](./IMG_2667.jpg?raw=true "Legos Ghostbusters assembly in action")
