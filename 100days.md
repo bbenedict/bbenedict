@@ -38,5 +38,5 @@ It's time for my next programmng assignment from [Coursera Machine Learning](htt
 
 Happy Holidays to everyone and all the ways people of the world celebrate the holidays.  We exchanged gifts this morning and, well, what I received pretty much changed my agenda for day 3.  Not sure this qualifies as learning but this is some serious fun.  Who you gonna call?
 
-![Legos Ghostbusters box](./IMG_2669.jpg?raw=true&s=100 "Legos Ghostbusters box")
+![Legos Ghostbusters box|50x50](./IMG_2669.jpg?raw=true&s=100 "Legos Ghostbusters box")
 ![Legos Ghostbusters assembly in action](./IMG_2667.jpg?raw=true "Legos Ghostbusters assembly in action")
