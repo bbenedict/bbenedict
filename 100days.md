@@ -36,7 +36,7 @@ It's time for my next programmng assignment from [Coursera Machine Learning](htt
 
 ## day 4
 
-Happy Holidays to everyone around the world!  We exchanged gifts this morning.  Let's just say, what I received pretty much changed my agenda for day 3.  Not sure this qualifies as learning but this is some serious fun.  Who you gonna call?
+Happy Holidays to everyone around the world!  We exchanged gifts this morning.  What I received pretty much changed my agenda for day.  Not sure this qualifies as learning but it is some serious fun.  Who you gonna call?
 
 <div>
 <img src="./IMG_2669.jpg" alt="Legos Ghostbusters box|" title="Legos Ghostbusters box" height="200" />
