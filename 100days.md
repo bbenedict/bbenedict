@@ -32,9 +32,9 @@ It's time for my next programmng assignment from [Coursera Machine Learning](htt
 
 ## day 3
 
-"Now, you will implement the backpropagation algorithm."  Assignment complete for backpropagation and gradient checking.  Time for egg nog!
+"Now, you will implement the backpropagation algorithm."  Assignment complete for backpropagation and gradient checking.  Time for egg nog...
 
-## day 3
+## day 4
 
 Happy Holidays to everyone around the world!  We exchanged gifts this morning.  Let's just say, what I received pretty much changed my agenda for day 3.  Not sure this qualifies as learning but this is some serious fun.  Who you gonna call?
 
