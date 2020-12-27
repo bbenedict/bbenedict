@@ -47,4 +47,8 @@ Happy Holidays to everyone around the world!  We exchanged gifts this morning.  
 
 Jumped back into https://codesandbox.io to play with the useReducer hook in React.  I haven't used it before.  This hook is a convenient way to introduce a local reducer within a component.  It's recommended as, "preferable to useState when you have complex state logic that involves multiple sub-values". [See the docs here](https://reactjs.org/docs/hooks-reference.html#usereducer).  useReducer seems very helpful, but I am not sure I would use it if I already had redux in place.  Then again, I have many examples of useState and redux in use in the same code base, so why not?
 
+## day 6
+
+Completed a programming exercize for [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning) studying models with different bias and variance properties.  Very interesting developing intuitions for what might be wrong with various models.
+
 
