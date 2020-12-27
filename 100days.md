@@ -43,3 +43,8 @@ Happy Holidays to everyone around the world!  We exchanged gifts this morning.  
 <img src="./IMG_2667.jpg" alt="Legos Ghostbusters assembly in action|" title="Legos Ghostbusters assembly in action" height="200"/>
  </div>
 
+## day 5
+
+Jumped back into https://codesandbox.io to play with the useReducer hook in React.  I haven't used it before.  This hook is a convenient way to introduce a local reducer within a component.  It's recommeneded as, "preferable to useState when you have complex state logic that involves multiple sub-values". [See the docs here](https://reactjs.org/docs/hooks-reference.html#usereducer).  useReducer seems very helpful, but I am not sure I would use it if I already had redux in place.  Then again, I have many examples of useState and redux in use in the same code base, so why not?
+
+
