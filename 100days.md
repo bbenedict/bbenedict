@@ -49,6 +49,6 @@ Jumped back into https://codesandbox.io to play with the useReducer hook in Reac
 
 ## day 6
 
-Completed a programming exercize for [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning) studying models with different bias and variance properties.  Very interesting developing intuitions for what might be wrong with various models.
+Completed a programming exercise for [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning) studying models with different bias and variance properties.  Very interesting developing intuitions for what might be wrong with various models.
 
 
