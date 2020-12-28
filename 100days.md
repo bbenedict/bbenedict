@@ -51,4 +51,8 @@ Jumped back into https://codesandbox.io to play with the useReducer hook in Reac
 
 Completed a programming exercise for [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning) studying models with different bias and variance properties.  Very interesting developing intuitions for what might be wrong with various models.
 
+## day 7 
+
+Starting a new defualt-react app on my desktop using Visual Studio.  I know many people use a pre-packaged as a starting point, but I prefer to take an existing app and hack out all the existing features and data.  That's the main reason I am using react 16 here.  I'll be using default-app to explore topics like accessibility and performance.  Today is more about house keeping to get a base app running.
+
 
