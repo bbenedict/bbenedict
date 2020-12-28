@@ -6,7 +6,7 @@
 * Was lucky enough to work on the first OLAP server Essbase 
 * Currently living in Napa after escaping Silicon Valley for a different pace of life
 
-### About my repo
+### What am I currently working on?
 
 [100 days of learning project](https://github.com/bbenedict/bbenedict/blob/main/100days.md)
 
