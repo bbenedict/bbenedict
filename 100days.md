@@ -53,6 +53,6 @@ Completed a programming exercise for [Coursera Machine Learning](https://www.cou
 
 ## day 7 
 
-Starting a new defualt-react app on my desktop using Visual Studio.  I know many people use a pre-packaged as a starting point, but I prefer to take an existing app and hack out all the existing features and data.  That's the main reason I am using react 16 here.  I'll be using default-app to explore topics like accessibility and performance.  Today is more about house keeping to get a base app running.
+Starting a new defualt-react app on my desktop using Visual Studio.  I know many people use a pre-packaged framework as a starting point, but I prefer to take an existing app and hack out all the existing features and data.  That's the main reason I am using react 16 here.  I'll be using default-app to explore topics like accessibility and performance.  Today is more about house keeping to get a base app running.
 
 
