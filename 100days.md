@@ -12,14 +12,14 @@ These are my areas of focus
   * O'Reilly Python Machine Learning books
   * Springer Recommendation systems 
 * React/UI/UX
-  * Fullstack D3js
-  * React 16 exploration of hooks
+  * D3js
+  * React 16 exploration of hooks, performance, accessibility and other areas
 * Full stack 
   * React/Express/Node/Mongo (otherwise known as the project that will never be done)
   * React + GraphQL 
-* And now for something completely different
+* And now for something completely different (expect to see these around day 80 or so)
   * Smalltalk best practices
-  * A console in Rust (saw this somewhere)
+  * A console in Rust
   * Clojure or Elm or Haskell
   
 ## day 1
