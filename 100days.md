@@ -58,3 +58,8 @@ Starting a new simple-react app on my desktop using Visual Studio.  I know many 
 ## day 8 
 
 Added redux to simple-react app.  Just about ready to start accessibility testing.
+
+## day 9
+
+First round of accessibility changes on simple-react app.  These changes were driven by the Lighthouse report in Chrome available in the devtools.  Simple changes including better contrast for colors, using alt text for all images and labels on all input fields.
+
