@@ -1,7 +1,7 @@
 ### 100 days of ~~coding~~ learning
 
-I'm going to do something along the lines of the 100 days of coding project. 
-Instead of coding a single project, I am going to explore different areas
+I'm doing something along the lines of the 100 days of coding project. 
+Instead of coding a single project, I hope to explore different areas
 like development enviroments, technologies and languages.  So maybe I
 should call it 100 days of learning something technical.
 
