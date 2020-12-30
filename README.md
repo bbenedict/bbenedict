@@ -1,7 +1,7 @@
 ### About me
 
 * CTO/VP of Engineering and life time software developer
-* Hands on technology executive with experience leading large teams (45+ team members)
+* Hands on technology executive with experience building teams for startups to Fortune 500 companies
 * Spent a lot of my career building e-learning and content systems
 * Was lucky enough to work on the first OLAP server Essbase 
 * Currently living in Napa after escaping Silicon Valley for a different pace of life
