@@ -65,6 +65,6 @@ First round of accessibility changes on simple-react app.  These changes were dr
 
 ## day 9
 
-Resuming Coursera Machine Learning to stay on track with the course schedule.  I had to do two different areas of machine learning this week.  First,  I did some work with Support Vector Machines (SVM) using them with Gaussian kernals.  I then completed a few spam classification problems designed to be used with SVM.  4 more weeks of classes to go!
+Resuming Coursera Machine Learning to stay on track with the course schedule.  I did some work with Support Vector Machines (SVM) using them with Gaussian kernals.  I then completed a few spam classification problems designed to be used with SVM.  4 more weeks of classes to go!
 
 
