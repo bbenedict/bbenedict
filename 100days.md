@@ -36,7 +36,7 @@ It's time for my next programmng assignment from [Coursera Machine Learning](htt
 
 ## day 4
 
-Happy Holidays to everyone around the world!  We exchanged gifts this morning.  What I received pretty much changed my agenda for day.  Not sure this qualifies as learning but it is some serious fun. Who you gonna call? Legos&trade; [Ghostbusters™ ECTO-1](https://www.lego.com/en-us/product/ghostbusters-ecto-1-10274)
+Happy Holidays to everyone around the world!  We exchanged gifts this morning.  What I received pretty much changed my agenda for day.  Not sure this qualifies as learning but it is some serious fun. Who you gonna call? Legos&reg; [Ghostbusters™ ECTO-1](https://www.lego.com/en-us/product/ghostbusters-ecto-1-10274)
 
 <div>
 <img src="./IMG_2669.jpg" alt="Legos Ghostbusters box|" title="Legos Ghostbusters box" height="200" />
@@ -73,7 +73,7 @@ Explored useContext with React today.  Yet another way to pass data between comp
 
 ## day 12
 
-Made good progress Coursera Machine Learning over the holidays.  I am actually a little ahead of schedule right now.  The coding work covered two areas.  First, I implemented parts ofthe K-means Clustering algorithm. I then used Principal Component Analysis(PCA) to perform dimensionalty reduction.  I topped the day off by finally completing my [Ghostbusters™ ECTO-1](https://www.lego.com/en-us/product/ghostbusters-ecto-1-10274) project.  Not sure which was more fun to be honest, although building the ghost trap was pretty cool (it shoots out of the bottom!).
+Made good progress Coursera Machine Learning over the holidays.  I am actually a little ahead of schedule right now.  The coding work covered two areas.  First, I implemented parts ofthe K-means Clustering algorithm. I then used Principal Component Analysis(PCA) to perform dimensionalty reduction.  I topped the day off by finally completing my Legos&reg; [Ghostbusters™ ECTO-1](https://www.lego.com/en-us/product/ghostbusters-ecto-1-10274) project.  Not sure which was more fun to be honest, although building the ghost trap was pretty cool (it shoots out of the bottom!).
 <div>
 <img src="./IMG_2675.jpg" alt="Legos Ghostbusters box|" title="Legos Ghostbusters car complete" height="200" />
 </div>
