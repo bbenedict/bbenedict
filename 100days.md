@@ -36,7 +36,7 @@ It's time for my next programmng assignment from [Coursera Machine Learning](htt
 
 ## day 4
 
-Happy Holidays to everyone around the world!  We exchanged gifts this morning.  What I received pretty much changed my agenda for day.  Not sure this qualifies as learning but it is some serious fun.  Who you gonna call?
+Happy Holidays to everyone around the world!  We exchanged gifts this morning.  What I received pretty much changed my agenda for day.  Not sure this qualifies as learning but it is some serious fun. Who you gonna call? [Ghostbusters™ ECTO-1](https://www.lego.com/en-us/product/ghostbusters-ecto-1-10274)
 
 <div>
 <img src="./IMG_2669.jpg" alt="Legos Ghostbusters box|" title="Legos Ghostbusters box" height="200" />
@@ -63,10 +63,17 @@ Added redux to simple-react app.  Just about ready to start accessibility testin
 
 First round of accessibility changes on simple-react app.  These changes were driven by the Lighthouse report in Chrome available in the devtools.  Simple changes including better contrast for colors, using alt text for all images and labels on all input fields.
 
-## day 9
+## day 10
 
 Resuming Coursera Machine Learning to stay on track with the course schedule.  I did some work with Support Vector Machines (SVM) using them with Gaussian kernals.  I then completed a few spam classification problems designed to be used with SVM.  4 more weeks of classes to go!
 
-## day 10
+## day 11
 
-Explored useContext with React today.  Yet another way to pass data between components in the component tree.     
+Explored useContext with React today.  Yet another way to pass data between components in the component tree.
+
+## day 12
+
+Made good progress Coursera Machine Learning over the holidays.  I am actually a little ahead of schedule right now.  The coding work covered two areas.  First, I implemented parts ofthe K-means Clustering algorithm. I then used Principal Component Analysis(PCA) to perform dimensionalty reduction.  I topped the day off by finally completing my [Ghostbusters™ ECTO-1](https://www.lego.com/en-us/product/ghostbusters-ecto-1-10274) project.  Not sure which was more fun to be honest, although building the ghost trap was pretty cool (it shoots out of the bottom!).
+<div>
+<img src="./IMG_2675.jpg" alt="Legos Ghostbusters box|" title="Legos Ghostbusters car complete" height="200" />
+</div>
