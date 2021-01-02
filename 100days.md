@@ -67,4 +67,10 @@ First round of accessibility changes on simple-react app.  These changes were dr
 
 Resuming Coursera Machine Learning to stay on track with the course schedule.  I did some work with Support Vector Machines (SVM) using them with Gaussian kernals.  I then completed a few spam classification problems designed to be used with SVM.  4 more weeks of classes to go!
 
+## day 10
+
+Well that ends my love affair with codesandbox.  Today's entry is about learning React useContext.  I got everything working perfectly.  But when I went to update my repo, I got a message about needing to fork because my branch had already been merged.  I clicked the button and now all my changes are gone.  Bummer... A promising product but they really need to work on their git integration.  
+
+
+
 
