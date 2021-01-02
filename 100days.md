@@ -73,7 +73,7 @@ Explored useContext with React today.  Yet another way to pass data between comp
 
 ## day 12
 
-Made good progress Coursera Machine Learning over the holidays.  I am actually a little ahead of schedule right now.  The coding work covered two areas.  First, I implemented parts ofthe K-means Clustering algorithm. I then used Principal Component Analysis(PCA) to perform dimensionalty reduction.  I topped the day off by finally completing my Legos&reg; [Ghostbusters™ ECTO-1](https://www.lego.com/en-us/product/ghostbusters-ecto-1-10274) project.  Not sure which was more fun to be honest, although building the ghost trap was pretty cool (it shoots out of the bottom!).
+Made good progress on the Coursera Machine Learning course over the holidays.  I am actually a little ahead of schedule right now.  The coding work today covered two areas.  I implemented parts of the K-means Clustering algorithm. I then used Principal Component Analysis(PCA) to perform dimensionalty reduction.  And finally, I topped the day off by completing my Legos&reg; [Ghostbusters™ ECTO-1](https://www.lego.com/en-us/product/ghostbusters-ecto-1-10274) project.
 <div>
 <img src="./IMG_2675.jpg" alt="Legos Ghostbusters box|" title="Legos Ghostbusters car complete" height="200" />
 </div>
