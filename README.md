@@ -8,6 +8,6 @@
 
 ### Other projects
 
-[100 days of learning project](https://github.com/bbenedict/bbenedict/blob/main/100days.md)
+[100 days of learning](https://github.com/bbenedict/bbenedict/blob/main/100days.md)
 
  
