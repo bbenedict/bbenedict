@@ -77,3 +77,7 @@ Made good progress on the Coursera Machine Learning course over the holidays.  I
 <div>
 <img src="./IMG_2675.jpg" alt="Legos Ghostbusters box|" title="Legos Ghostbusters car complete" height="200" />
 </div>
+
+## day 13
+
+Some experiments with useMemo in React.  The code is working, but I am pretty sure I am not taking full advantage of the useMemo hook and it's ability to return a memoized value.  Will revisit at a later date, hopefully with a better use case.
