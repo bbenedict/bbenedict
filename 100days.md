@@ -10,7 +10,6 @@ These are my areas of focus
 * ML/AI
   * Coursera ML/AI courses
   * O'Reilly Python Machine Learning books
-  * Springer Recommendation systems 
 * React/UI/UX
   * D3js
   * React 16 exploration of hooks, performance, accessibility and other areas
@@ -20,7 +19,7 @@ These are my areas of focus
 * And now for something completely different (expect to see these around day 80 or so)
   * Smalltalk best practices
   * A console in Rust
-  * Clojure or Elm or Haskell
+  * Clojure or Elm or Haskell or ...
   
 ## day 1
 
