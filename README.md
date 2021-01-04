@@ -6,7 +6,7 @@
 * Was lucky enough to work on the first OLAP server Essbase 
 * Currently developing e-learning technology in the Diversity, Equity and Inclusion space @ [Emtrain](https://emtrain.com/)
 
-### Other projects?
+### Other projects
 
 [100 days of learning project](https://github.com/bbenedict/bbenedict/blob/main/100days.md)
 
