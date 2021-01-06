@@ -87,4 +87,4 @@ Accessibility improvements for the simple-react app.  Adding regional tags such 
 
 ## day 15
 
-Created a custom hook in the simple-react app.  I also came up with a better example for useMemo that works more as expected.
+Created a custom hook in the codesandbox-react app.  I also came up with a better example for useMemo that works more as expected.
