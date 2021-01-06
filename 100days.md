@@ -84,3 +84,7 @@ Some experiments with useMemo in React.  The code is working, but I am pretty su
 ## day 14
 
 Accessibility improvements for the simple-react app.  Adding regional tags such as header and nav to improve the screen reading experience.  I am using VoiceOver on Mac to validate changes.  This is a VERY eye opening experience.  You are trying to navigate from say a Chrome browser tab to your application, and every key you press causes an audio snippet to begin playing.  I really wanted to take my headphones off while learning as a result, but that defeates the purpose of this learning.
+
+## day 15
+
+Created a custom hook in the simple-react app.  I also came up with a better example for useMemo that works more as expected.
