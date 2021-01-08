@@ -97,3 +97,6 @@ Added eslint and a11y rules to the simple-react app.  Put in the obvious rules f
 
 I coded a more complex scenario for accessibility adding support for a chart.  Think of this as a complex image that requires a secondary or contextual explanation.  The W3C provides an excellent [tutorial for handling complex images](https://www.w3.org/WAI/tutorials/images/complex/). My ability to navigate with VoiceOver is improving, though I still have a long way to go to feel comfortable relying on voice only for interacting with websites.  A very educational experience.
 
+## day 17
+
+Supporting font size scaling for the visually impaired in simple-react app.
