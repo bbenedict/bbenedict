@@ -103,9 +103,9 @@ Supporting font size scaling for the visually impaired in simple-react app.
 
 ## day 19
 
-Working on my last programming assignments for Coursera Machine Learning.  After this, I just have a two weeks of lectures to complete and I have successfully finished the course.  Today I am working on Anomaly Detection.  The task is to estimates the parameters of a Gaussian distribution of an m x n dataset.  The output is &mu; and &sigma;<sup>2</sup>.
+Working on my last programming assignments for Coursera Machine Learning.  After this, I just have a two weeks of lectures to complete to finish the course.  Today I am working on Anomaly Detection.  The task is to estimate the parameters &mu; and &sigma;<sup>2</sup> for a Guassian distribution of a matrix of features.
 
 ## day 20
 
-I have completed all programming assignments for Coursera Machine Learning.  QED!  I implemented parts of a Collaborative Filtering system for recommendations.  In this case, the specific work was to produce a vectorized implementaion for calcualting gradients of a cost function given a matrix of users x features and movies x features.  
+I implemented parts of a Collaborative Filtering system for recommendations.  The specific work was to produce a vectorized implementaion for calcualting gradients of a cost function given a matrix of users x features and movies x features.  As of today, I have completed all programming assignments for Coursera Machine Learning.  QED!  
 
