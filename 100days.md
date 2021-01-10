@@ -107,5 +107,5 @@ Working on my last programming assignments for Coursera Machine Learning.  After
 
 ## day 20
 
-I implemented parts of a Collaborative Filtering system for recommendations.  The specific work was to produce a vectorized implementaion for calcualting gradients of a cost function given a matrix of users x features and movies x features.  As of today, I have completed all programming assignments for Coursera Machine Learning.  QED!  
+I implemented parts of a Collaborative Filtering system for recommendations.  The specific work was to produce a vectorized implementation for calcualting the gradient of a cost function given a matrix of users x features and movies x features.  As of today, I have completed all programming assignments for Coursera Machine Learning.  QED!  
 
