@@ -97,6 +97,15 @@ Added eslint and a11y rules to the simple-react app.  Put in the obvious rules f
 
 I coded a more complex scenario for accessibility adding support for a chart.  Think of this as a complex image that requires a secondary or contextual explanation.  The W3C provides an excellent [tutorial for handling complex images](https://www.w3.org/WAI/tutorials/images/complex/). My ability to navigate with VoiceOver is improving, though I still have a long way to go to feel comfortable relying on voice only for interacting with websites.  A very educational experience.
 
-## day 17
+## day 18
 
 Supporting font size scaling for the visually impaired in simple-react app.
+
+## day 19
+
+Working on my last programming assignments for Coursera Machine Learning.  After this, I just have a two weeks of lectures to complete and I have successfully finished the course.  Today I am working on Anomaly Detection.  The task is to estimates the parameters of a Gaussian distribution of an m x n dataset.  The output is &mu; and &sigma;<sup>2</sup>.
+
+## day 20
+
+I have completed all programming assignments for Coursera Machine Learning.  QED!  I implemented parts of a Collaborative Filtering system for recommendations.  In this case, the specific work was to produce a vectorized implementaion for calcualting gradients of a cost function given a matrix of users x features and movies x features.  
+
