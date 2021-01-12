@@ -109,3 +109,6 @@ Working on my last programming assignments for Coursera Machine Learning.  After
 
 I implemented parts of a Collaborative Filtering system for recommendations.  The specific work was to produce a vectorized implementation for calcualting the gradient of a cost function given a matrix of users x features and movies x features.  As of today, I have completed all programming assignments for Coursera Machine Learning.  QED!  
 
+## day 21
+
+Time to open up a new thread for learning.  I'm starting the O-Reilly book Introduction to Machine Learning with Python.  We'll see how much the Coursera ML course helps with better understanding what is behind the scenes.  First day of learning is all about spinning up the IDE, in this case Jupyter Notebooks.  Got stuck in pip install hell for a while.  Installs unrelated to this project pushed me to python 3.8 (thanks a lot AWS CLI) and it took me a while to get the right scikit-learn, numpy, pandas versions for my version of Python and Mac OSX.  Trained a based model today so hopefully those issues are behind me.
