@@ -116,3 +116,11 @@ Time to open up a new thread for learning.  I'm starting the O-Reilly book Intro
 ## day 22
 
 Finished the linear regression models from the O-Reilly book.  Trying to create Jupyter notebooks that might act as a real time reference in the future.
+
+## day 23
+
+First attempt at k-means clustering.  Working example but needs some clean up.
+
+## day 24
+
+Cleaned up...
