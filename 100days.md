@@ -124,3 +124,22 @@ First attempt at k-means clustering.  Working example but needs some clean up.
 ## day 24
 
 Cleaned up...
+
+## day 25
+
+Worked with some more examples from the O-Reilly book Introduction to Machine Learning with Python.  I also decided to set up a notebook page dedicated to plots and graphs to consolidate specific examples with unique attributes or methods for creating the images.
+
+## day 26
+
+No coding today but I am pretty sure this counts as learning.  
+<div>
+<img src="./bob-benedict-stanford-ml.png" alt="Certificate of Completion, Machine Learning, Stanford Online, Coursera" title="Certificate of Completion, Machine Learning, Stanford Online, Coursera" height="300" />
+</div>
+
+## day 27 (Jan 17)
+
+Spent some time testing more features of CodeSandbox.  I wanted to explore the full developmnt life cycle a bit more by adding automated tests to my test app.  They use Jest, which worked fine for my purposes.  
+
+## day 28
+
+Started work on Suport Vector Machines in the python O-Reilly repo.  Just have the basics working for now.
