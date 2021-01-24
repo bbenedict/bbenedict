@@ -136,10 +136,26 @@ No coding today but I am pretty sure this counts as learning.
 <img src="./bob-benedict-stanford-ml.png" alt="Certificate of Completion, Machine Learning, Stanford Online, Coursera" title="Certificate of Completion, Machine Learning, Stanford Online, Coursera" height="300" />
 </div>
 
-## day 27 (Jan 17)
+## day 27
 
 Spent some time testing more features of CodeSandbox.  I wanted to explore the full developmnt life cycle a bit more by adding automated tests to my test app.  They use Jest, which worked fine for my purposes.  
 
 ## day 28
 
 Started work on Suport Vector Machines in the python O-Reilly repo.  Just have the basics working for now.
+
+## day 29
+
+More accessibility changes in simple-react app using the html attributes role, aria-label, h1 header properly.  I think I am pretty close to have a strategy to improve accessibility in our application.  Next step is to schedule a "brown bag" discussion.
+
+## day 30
+
+Had to segue into elasticsearch land for today's entry.  Fixed some issues with our scripts that reload search indexes.  
+
+## day 31
+
+... and then I had to do some mysql work to fix some anomolies in our database.  
+
+## day 32
+
+Although this is not listed in my initial list, I've wanted to explore git-flow more in depth especially the use of release branches.  I've primarily used feature branches merged into develop and then main for my team projects, along with hotfix branches as needed.  I used a temp repo and created various "feature branches" to see how it all works.  
