@@ -158,4 +158,13 @@ Had to segue into elasticsearch land for today's entry.  Fixed some issues with 
 
 ## day 32
 
-Although this is not listed in my initial list, I've wanted to explore git-flow more in depth especially the use of release branches.  I've primarily used feature branches merged into develop and then main for my team projects, along with hotfix branches as needed.  I used a temp repo and created various "feature branches" to see how it all works.  
+Although this is not listed in my initial list, I've wanted to explore git-flow more in depth especially the use of release branches.  I've primarily used feature branches merged into develop and then main for my team projects, along with hotfix branches as needed.  I used a temp repo and created various "feature branches" to see how it all works. 
+
+## day 33
+
+Started work on Neural Networks from the ML/python O-Reilly book.  Today was mostly reviewing the parameters from the scikit libraries https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html
+
+## day 34
+
+Added the examples from O-Reilly including a new graph in the graphs and plots collection.
+
