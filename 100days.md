@@ -168,3 +168,14 @@ Started work on Neural Networks from the ML/python O-Reilly book.  Today was mos
 
 Added the examples from O-Reilly including a new graph in the graphs and plots collection.
 
+## day 35
+
+Created a model parameter tester for scikit nueral network classifier.  The tester iterates through the different solvers, confgiruations for hidden layers, and other parameters to see what combination gets the best result on the test set.  Included also the worst result for ceiling analysis.  This should come in handy when I try other neural network libraris on the various datasets.
+
+## day 36
+
+Another seque data looking at an non-open source data set extracted from a MySQL database.  If you look what I did tomorrow, you'll see one of the changes I need to make to the data set for creating better models.
+
+## day 37
+
+More Python O-Reilly book examples this time exploring categorical data.  I also added some techniques to clean up the data that I learned in a basic Udacity class some time ago.  This work will come in handy when I resume working on my non-open source data set.
