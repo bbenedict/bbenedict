@@ -179,3 +179,16 @@ Another seque data looking at an non-open source data set extracted from a MySQL
 ## day 37
 
 More Python O-Reilly book examples this time exploring categorical data.  I also added some techniques to clean up the data that I learned in a basic Udacity class some time ago.  This work will come in handy when I resume working on my non-open source data set.
+
+## day 38
+
+Resumed work on the non-open source data set.  Converted the project to jupyter a notebook.
+
+## day 39
+
+Significant work on the non-open source data set.  Generating charts on answers provided by users.
+
+## day 40
+
+Now using dataframes to create graphs from questions that have the most responses from an account list.  This is going to come in very handy for deciding which questions are interesting to look at.
+
