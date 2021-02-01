@@ -192,3 +192,6 @@ Significant work on the non-open source data set.  Generating charts on answers 
 
 Now using dataframes to create graphs from questions that have the most responses from an account list.  This is going to come in very handy for deciding which questions are interesting to look at.
 
+## day 41
+
+I'm starting a new report today: simple-node-graphql.  Could this be the challenege to REST that everyone is saying it is?  We shall see.  Seems like a simpler way to implement a server API by having a single endpoint and specfiying the data you need at time of request.  
