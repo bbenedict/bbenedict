@@ -174,7 +174,7 @@ Created a model parameter tester for scikit nueral network classifier.  The test
 
 ## day 36
 
-Another seque data looking at an non-open source data set extracted from a MySQL database.  If you look what I did tomorrow, you'll see one of the changes I need to make to the data set for creating better models.
+Another segue day looking at an non-open source data set extracted from a MySQL database.  If you look what I did tomorrow, you'll see one of the changes I need to make to the data set for creating better models.
 
 ## day 37
 
