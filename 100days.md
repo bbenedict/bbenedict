@@ -194,4 +194,4 @@ Now using dataframes to create graphs from questions that have the most response
 
 ## day 41
 
-I'm starting a new report today: simple-node-graphql.  Could this be the challenege to REST that everyone is saying it is?  We shall see.  Seems like a simpler way to implement a server API by having a single endpoint and specfiying the data you need at time of request.  
+I'm starting a new repo today: simple-node-graphql.  Could this be the challenege to REST that everyone is saying it is?  We shall see.  Seems like a simpler way to implement a server API by having a single endpoint and specfiying the data you need at time of request.  
