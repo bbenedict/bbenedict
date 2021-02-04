@@ -194,4 +194,18 @@ Now using dataframes to create graphs from questions that have the most response
 
 ## day 41
 
-I'm starting a new repo today: simple-node-graphql.  Could this be the challenege to REST that everyone is saying it is?  We shall see.  Seems like a simpler way to implement a server API by having a single endpoint and specfiying the data you need at time of request.  
+I'm starting a new repo today: simple-node-graphql.  Could this be the challenege to REST that everyone is saying it is?  We shall see.  Seems like a simpler way to implement a server API by having a single endpoint and specfiying the data you need at time of request. 
+
+## day 42
+
+Deep dive into GraphQl docs to better understand how queries and resolvers work.  I really wish people who write blog posts would go beyond the level of detail provided already in the documentation (which is pretty good in this case).  And if you use the same name for your query, your resolvers and your data, the reader has to guess if those names mean the same thing and how each of these items are connected.
+
+## day 43
+
+Side tracked into SQL world for the old day job.  We may have found our first MySQL bug in the way the database chooses which index to use for query optimization.  I was able to figure out how to force an index on a JOIN.  Our problem is solved.  Need to figure out how to report a bug to Oracle.
+
+## day 44
+
+I was able to get back to my GraphQL work.  I finally have a working reference implemenation for the equivelent of REST GET with nested resources.  I also refactored the code to make it more clear how queries link to resolvers and data (see day 42).  For example, the query getUsers returns an array of UserObjects that includes the LocationObject for each user retrieved from the userList.
+
+
