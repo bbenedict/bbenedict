@@ -170,7 +170,7 @@ Added the examples from O-Reilly including a new graph in the graphs and plots c
 
 ## day 35
 
-Created a model parameter tester for scikit nueral network classifier.  The tester iterates through the different solvers, confgiruations for hidden layers, and other parameters to see what combination gets the best result on the test set.  Included also the worst result for ceiling analysis.  This should come in handy when I try other neural network libraris on the various datasets.
+Created a model parameter tester for scikit neural network classifier.  The tester iterates through the different solvers, confgiruations for hidden layers, and other parameters to see what combination gets the best result on the test set.  Included also the worst result for ceiling analysis.  This should come in handy when I try other neural network libraris on the various datasets.
 
 ## day 36
 
@@ -194,7 +194,7 @@ Now using dataframes to create graphs from questions that have the most response
 
 ## day 41
 
-I'm starting a new repo today: simple-node-graphql.  Could this be the challenege to REST that everyone is saying it is?  We shall see.  Seems like a simpler way to implement a server API by having a single endpoint and specfiying the data you need at time of request. 
+I'm starting a new repo today: simple-node-graphql.  Could this be the challenge to REST that everyone is saying it is?  We shall see.  Seems like a simpler way to implement a server API by having a single endpoint and specfiying the data you need at time of request. 
 
 ## day 42
 
@@ -208,4 +208,22 @@ Side tracked into SQL world for the old day job.  We may have found our first My
 
 I was able to get back to my GraphQL work.  I finally have a working reference implemenation for the equivelent of REST GET with nested resources.  I also refactored the code to make it more clear how queries link to resolvers and data (see day 42).  For example, the query getUsers returns an array of UserObjects that includes the LocationObject for each user retrieved from the userList.
 
+## day 44
 
+Added principal component analysis (PCA) to Python O-Reilly book examples.
+
+## day 45
+
+Added cross validation to Python O-Reilly book examples.
+
+## day 46
+
+I am starting a new thread based on the learnings from GraphQL.  I really like the query language approach with a single end point on the server.  My plan is to leverage those concepts and adapt them to my approach to REST, which is built on Prototypal Inheritance in Javascript.  Part of this is also to work around some of the drawbacks or challeneges of GraphQL such as the N+1 problem and the lack of wildcard support in queries.
+
+## day 47
+
+Success!  I have a working implementation of a REST-based query languages.  
+
+## day 48
+
+Cleaned up of my working implementation of my REST-based query languages and uploaded to a privat repo for now.  The next set of problems to solve include authentication support, overriding the base services controller, and better error response.  Then I need to build a Reactjs client that leverages the approach.  Is it possible to define a model on the server and have all the connections automatically made such that client queries just work?  We'll see.
