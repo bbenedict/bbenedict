@@ -222,8 +222,33 @@ I am starting a new thread based on the learnings from GraphQL.  I really like t
 
 ## day 47
 
-Success!  I have a working implementation of a REST-based query languages.  
+Success!  I have a working implementation of a REST-based query language.  
 
 ## day 48
 
-Cleaned up of my working implementation of my REST-based query languages and uploaded to a privat repo for now.  The next set of problems to solve include authentication support, overriding the base services controller, and better error response.  Then I need to build a Reactjs client that leverages the approach.  Is it possible to define a model on the server and have all the connections automatically made such that client queries just work?  We'll see.
+Cleaned up of my working implementation of my REST-based query language and uploaded to a privat repo for now.  The next set of problems to solve include authentication support, overriding the base services controller, and better error response.  Then I need to build a Reactjs client that leverages the approach.  Is it possible to define a model on the server and have all the connections automatically made such that client queries just work?  We'll see.
+
+## And then life happens...
+
+I had one of those interruptions that forces you to put all your side projects on hold until the ship is righted.  One of the things I was looking forward to upon resolving the situation was resuming my 100 days of learning.  And so, without further ado...
+
+## day 49
+
+I resumed work on my REST-based query language by implemention a react client that queries the server.  First version works pretty well.  I am optimistic this is a good approach.
+
+## day 50
+
+Re-factoring of the client and related server work.  Now supporting object creation from the client.
+
+## day 51
+
+Before my "life happens" interruption, I had started reading about sentiment analysis in the O-Reilly book Introduction to Machine Learning with Python.  I swicthed back to that work to finish what I started.  The implementation was a simple "bag of words" approach.
+
+## day 52
+
+Added better logging to the server side of the REST-based query language project.
+
+## day 53
+
+I spent some time with data transformation and scaling using the O-Reilly book.  
+
