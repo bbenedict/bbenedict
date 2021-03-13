@@ -250,5 +250,28 @@ Added better logging to the server side of the REST-based query language project
 
 ## day 53
 
-I spent some time with data transformation and scaling using the O-Reilly book.  
+I spent some time with data transformation and scaling using the O-Reilly book.
 
+## day 54
+
+Created a few example scikit-learn pipelines based on examples in the O-Reilly ML Python book.
+
+## day 55 
+
+Started a new thread of learning today!  I am leaning D3.js using Amelia Wattenberger's Fullstack D3 and Data Visualization, which is sponsored by Fullstack.io.  I spent most of the time setting up the sample repo, installing live-server and getting a basic chart working.  This book is extremely well written and the examples are very relevant.  I highly recommend you have strong Javascript skills to get the most value from the text.
+
+## day 56
+
+This day was a little more productive.  I worked through the scatter plot example.
+
+## day 57
+
+I did the bar chart example today.  D3.js creates charts by essentially creating an svg at run time.  I am surprised by how much of the chart is just svg objects versus something generated from JS libraries.
+
+## day 58
+
+Spent some time on animations and transformations adding to existing D3.js work.  
+
+## day 59
+
+I jumped ahead in Amelia Wattenberger's D3.js book to look at how charts are created within a Reactjs application. The book recommends using Reactjs to render the svg objects instead of D3.js, which in turn becomes more of a powerful set of utilities to define scales and do other operaions.  Now that is a bit of a surpise.  I am much more likely to create charts in Reactjs than not.  I'll do the remaining examples in Reactjs instead once I refactor the current app a bit.  
