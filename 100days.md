@@ -12,7 +12,7 @@ These are my areas of focus
   * O'Reilly Python Machine Learning books
 * React/UI/UX
   * D3js
-  * React 16 exploration of hooks, performance, accessibility and other areas
+  * React 16/17 exploration of hooks, performance, accessibility and other areas
 * Full stack 
   * React/Express/Node/Mongo (otherwise known as the project that will never be done)
   * React + GraphQL 
@@ -274,4 +274,36 @@ Spent some time on animations and transformations adding to existing D3.js work.
 
 ## day 59
 
-I jumped ahead in Amelia Wattenberger's D3.js book to look at how charts are created within a Reactjs application. The book recommends using Reactjs to render the svg objects instead of D3.js, which in turn becomes more of a powerful set of utilities to define scales and do other operaions.  Now that is a bit of a surpise.  I am much more likely to create charts in Reactjs than not.  I'll do the remaining examples in Reactjs instead once I refactor the current app a bit.  
+I jumped ahead in Amelia Wattenberger's D3.js book to look at how charts are created within a Reactjs application. The book recommends using Reactjs to render the svg objects instead of D3.js, which in turn becomes more of a powerful set of utilities to define scales and do other operaions.  Now that is a bit of a surpise.  I am much more likely to create charts in Reactjs than not.  I'll do the remaining examples in Reactjs instead once I refactor the current app a bit.
+
+## day 60
+
+Switched the server config for D3.js in React to use webpack-dev-server.  The server is launching and rendering a simple scatter chart with just the circles.
+
+## day 61
+
+Re-factored the app with the goal to simplify chart generation.  In truth, this was not a very productive effort.
+
+## day 62
+
+A much more productive effort on re-factoring the scatter chart and the app as a whole.  Added axis and labels.
+
+## day 63
+
+Added a bar chart to the D3.js app in React.  The method used in the book D3.histogram() was replaced by D3.bin().  I also figured out how to control the number of bars.  D3 makes smart guesses for how many bars to use, which makes sense for a histogram but less so for a straight bar chart.
+
+## day 64
+
+Made a quick seque to cypress.io to explore client side testing for a React app.  I suspect cypress.io will replace some of the other threads of learning I proposed as the start of this project.
+
+## day 65
+
+More exploration of cypress.io.  I am debating how to handle service responses for a React app that uses Node/Express for the backend.  Approach A, use stubs.  Approach B, use seed data and run the server in test-ci mode.  We'll see what I ended up recommending.
+
+## day 66
+
+Resuming my exploration of D3.js, I started work on a doughnut chart.  We use these a lot in our application.  I was able to get a basic chart displayed but I need to refactor to the code (as usual) to make it more clear what is happening.
+
+## day 67
+
+A nice productive day refactoring a doughnut chart using D3.js in a React app.
