@@ -307,3 +307,13 @@ Resuming my exploration of D3.js, I started work on a doughnut chart.  We use th
 ## day 67
 
 A nice productive day refactoring a doughnut chart using D3.js in a React app.
+
+## day 67
+
+I created a custom doughnut chart using D3.js that displays a single value percentage like you might see in a dashboard.
+
+## day 68
+
+Delved into Rust for a few hours.  This was a nice introduction to the language, but I think I am going to shelve this thread for now.
+
+
