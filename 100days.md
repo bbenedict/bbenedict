@@ -258,7 +258,7 @@ Created a few example scikit-learn pipelines based on examples in the O-Reilly M
 
 ## day 55 
 
-Started a new thread of learning today!  I am leaning D3.js using Amelia Wattenberger's Fullstack D3 and Data Visualization, which is sponsored by Fullstack.io.  I spent most of the time setting up the sample repo, installing live-server and getting a basic chart working.  This book is extremely well written and the examples are very relevant.  I highly recommend you have strong Javascript skills to get the most value from the text.
+Started a new thread of learning today!  I am leaning D3.js using Amelia Wattenberger's *Fullstack D3 and Data Visualization*, which is sponsored by Fullstack.io.  I spent most of the time setting up the sample repo, installing live-server and getting a basic chart working.  This book is extremely well written and the examples are very relevant.  I highly recommend you have strong Javascript skills to get the most value from the text.
 
 ## day 56
 
@@ -315,5 +315,21 @@ I created a custom doughnut chart using D3.js that displays a single value perce
 ## day 68
 
 Delved into Rust for a few hours.  This was a nice introduction to the language, but I think I am going to shelve this thread for now.
+
+## day 69
+
+I did some more work with cypress.io.  For the back end, I brought up a server with seed data.  Seed data replaces the typical fixtures for test data.  My login spec is working.  Running a server with seed data will work well for development, but I am concerned it won't slot into CI as well as we need it to.
+
+## day 70
+
+Another side bar, this time back to accessibility.  I am really going through the details now of what it takes to make a full accesible e-learning app.  I watched sereveral videos on YouTube of people with disabilities using screen readers.  All my teams are going to understand accessibility going forward.
+
+## day 71
+
+Amelia Wattenberger wrote another fantastic blog post about her approach to [using D3.js with Reactjs](https://wattenberger.com/blog/react-and-d3).  I wouldn't be surprised to see an update to her book *Fullstack D3 and Data Visualization*.  She uses the Reactjs hook useRef to access the SVG object which then enables more of the D3.js libary.  I re-wrote two of my charts to use this approach.  
+
+## day 72
+
+I resumed my cypress.io work to solve the CI vs. server challenge.  I am trying to write one set of tests, exercising the interface through navigation and interaction, that work with stups or with a server (see day 69).  Turns out the cypress.io stub feature requires you to simluate the calls for GET and POST, which means your tests are not using their navigation methods like visit and click as much.  Miragejs seems like the right solution.  You intercept HTTP calls by defining routes and from there return your mocked data.  The code needs some re-factoring.  When doesn't it?  But I think at this point I have a solution that enables us to run client side tests with a server, which is better for integration tests, and without a server, which is better for CI.
 
 
