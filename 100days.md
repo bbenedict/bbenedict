@@ -332,4 +332,23 @@ Amelia Wattenberger wrote another fantastic blog post about her approach to [usi
 
 I resumed my cypress.io work to solve the CI vs. server challenge.  I am trying to write one set of tests, exercising the interface through navigation and interaction, that work with stups or with a server (see day 69).  Turns out the cypress.io stub feature requires you to simluate the calls for GET and POST, which means your tests are not using their navigation methods like visit and click as much.  Miragejs seems like the right solution.  You intercept HTTP calls by defining routes and from there return your mocked data.  The code needs some re-factoring.  When doesn't it?  But I think at this point I have a solution that enables us to run client side tests with a server, which is better for integration tests, and without a server, which is better for CI.
 
+## day 73
+
+I dabbled with another on of the langauges listed in my original goals.  This was interesting.  But the learning curve to appreviate the benefit of the language felt longer than I wanted to spend.  I might have to re-think how to spend my last 25+ days on this project.
+
+## day 74
+
+Experimented with performance tools using the simple react app.  Was interesting and something I can definitely use in future apps.
+
+## day 75
+
+Found one potential solution to the last 25+ days challenge.  Blockchain!  I started working through various python tutorials.  This is fascinating stuff.
+
+## day 76
+
+My second day of blockchain experimentation.  I understand the basics of how it works.  But I feel like I am missing the security aspects of it and how the integrity of the chain is maintained.
+
+## day 77
+
+I made significant progress on my blockchain implementation.  I added digital signing and also validation of the hashes.  I'm far enough along to create a new repo to capture my work.  Something tells this is an area I will continue to learn more and more about.
 
