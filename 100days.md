@@ -334,7 +334,7 @@ I resumed my cypress.io work to solve the CI vs. server challenge.  I am trying 
 
 ## day 73
 
-I dabbled with another on of the langauges listed in my original goals.  This was interesting.  But the learning curve to appreviate the benefit of the language felt longer than I wanted to spend.  I might have to re-think how to spend my last 25+ days on this project.
+I dabbled with another one of the langauges listed in my original goals.  This was interesting.  But the learning curve to appreciate the benefit of the language felt longer than I wanted to spend.  I might have to re-think how to spend my last 25+ days on this project.
 
 ## day 74
 
@@ -346,9 +346,21 @@ Found one potential solution to the last 25+ days challenge.  Blockchain!  I sta
 
 ## day 76
 
-My second day of blockchain experimentation.  I understand the basics of how it works.  But I feel like I am missing the security aspects of it and how the integrity of the chain is maintained.
+My second day of blockchain experimentation.  I understand the basics of how it works.  But I feel like I am missing the security aspects and how the integrity of the chain is maintained.
 
 ## day 77
 
-I made significant progress on my blockchain implementation.  I added digital signing and also validation of the hashes.  I'm far enough along to create a new repo to capture my work.  Something tells this is an area I will continue to learn more and more about.
+I made significant progress on my blockchain implementation.  I added digital signing and also validation of the hashes.  I'm far enough along to create a new repo to capture my work.  Something tells me this is an area I will continue to learn more and more about.
+
+## day 78
+
+Had to do a research on research day to find my next source of learning.  I ended up on is Tensorflow and the Keras api.  Back into neural nets we go.
+
+## day 78 
+
+I found a fantisic course on Keras and Tensorflow on YouTube.  It was sponsored or creatd by [DeepLizard](https://deeplizard.com/) and listed on YouTube as part of (FreeCodeCamp.org)[https://www.freecodecamp.org/]. You'll find the course here: [Keras with TensorFlow Course - Python Deep Learning and Neural Networks for Beginners Tutorial](https://www.youtube.com/watch?v=qFJeN9V1ZsI&t=1791s).  It's very well done.  I recommend it if you are starting out with Tensorflow and Keras.
+
+## day 79
+
+Day two of the YouTube course Keras with TensorFlow Course - Python Deep Learning and Neural Networks for Beginners Tutorial.  Covered more training and testing, with cross validation, and plotting everything in a confusion matrix.  I should be able to complete everything in one more day.
 
