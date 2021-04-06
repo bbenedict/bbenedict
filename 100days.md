@@ -356,11 +356,20 @@ I made significant progress on my blockchain implementation.  I added digital si
 
 Had to do a research on research day to find my next source of learning.  I ended up on is Tensorflow and the Keras api.  Back into neural nets we go.
 
-## day 78 
+## day 79 
 
 I found a fantisic course on Keras and Tensorflow on YouTube.  It was sponsored or creatd by [DeepLizard](https://deeplizard.com/) and listed on YouTube as part of (FreeCodeCamp.org)[https://www.freecodecamp.org/]. You'll find the course here: [Keras with TensorFlow Course - Python Deep Learning and Neural Networks for Beginners Tutorial](https://www.youtube.com/watch?v=qFJeN9V1ZsI&t=1791s).  It's very well done.  I recommend it if you are starting out with Tensorflow and Keras.
 
-## day 79
+## day 80
 
-Day two of the YouTube course Keras with TensorFlow Course - Python Deep Learning and Neural Networks for Beginners Tutorial.  Covered more training and testing, with cross validation, and plotting everything in a confusion matrix.  I should be able to complete everything in one more day.
+Day two of the YouTube course Keras with TensorFlow Course - Python Deep Learning and Neural Networks for Beginners Tutorial.  Covered more training and testing, with cross validation, and plotting everything in a confusion matrix.  
+
+## day 81
+
+Worked through Convolutional Neural Networks matieral in the YouTube course Keras with TensorFlow Course - Python Deep Learning and Neural Networks for Beginners Tutorial. 
+
+## day 82
+
+Closed out the topic with a round of fine-tuning starting with the VGG16 model for image classification.
+
 
