@@ -358,7 +358,7 @@ Had to do a research on research day to find my next source of learning.  I ende
 
 ## day 79 
 
-I found a fantisic course on Keras and Tensorflow on YouTube.  It was sponsored or creatd by [DeepLizard](https://deeplizard.com/) and listed on YouTube as part of (FreeCodeCamp.org)[https://www.freecodecamp.org/]. You'll find the course here: [Keras with TensorFlow Course - Python Deep Learning and Neural Networks for Beginners Tutorial](https://www.youtube.com/watch?v=qFJeN9V1ZsI&t=1791s).  It's very well done.  I recommend it if you are starting out with Tensorflow and Keras.
+I found a fantisic course on Keras and Tensorflow on YouTube.  It was sponsored or creatd by [DeepLizard](https://deeplizard.com/) and listed on YouTube as part of [FreeCodeCamp.org](https://www.freecodecamp.org/). You'll find the course here: [Keras with TensorFlow Course - Python Deep Learning and Neural Networks for Beginners Tutorial](https://www.youtube.com/watch?v=qFJeN9V1ZsI&t=1791s).  It's very well done.  I recommend it if you are starting out with Tensorflow and Keras.
 
 ## day 80
 
@@ -372,4 +372,11 @@ Worked through Convolutional Neural Networks matieral in the YouTube course Kera
 
 Closed out the topic with a round of fine-tuning starting with the VGG16 model for image classification.
 
+## day 83
+
+I've decided to test some of my recent Jupyter Notebooks on AWS SageMaker.  I actually plan on exploring many of the AWS ML/AI tool set to see how useful they can be for experimentation and on production.  Today I was able to sping up a basic notebook and run a linear regression.
+
+## day 84
+
+Second day of working with AWS SageMaker.  I did a test run of my recent Tensorflow work using the VGG16 model for image classification.  Turns out, training the model was about 5 times faster with SageMaker than on my iMac.  I did use some beefier servers, ml.p2.xlarge for the EC2 instance and ml.eia1.medium for Elastic Inference to add some GPU processing power to the notebook.
 
