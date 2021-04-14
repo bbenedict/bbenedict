@@ -226,7 +226,7 @@ Success!  I have a working implementation of a REST-based query language.
 
 ## day 48
 
-Cleaned up of my working implementation of my REST-based query language and uploaded to a privat repo for now.  The next set of problems to solve include authentication support, overriding the base services controller, and better error response.  Then I need to build a Reactjs client that leverages the approach.  Is it possible to define a model on the server and have all the connections automatically made such that client queries just work?  We'll see.
+Cleaned up of my working implementation of my REST-based query language and uploaded to a private repo for now.  The next set of problems to solve include authentication support, overriding the base services controller, and better error response.  Then I need to build a Reactjs client that leverages the approach.  Is it possible to define a model on the server and have all the connections automatically made such that client queries just work?  We'll see.
 
 ## And then life happens...
 
@@ -380,3 +380,26 @@ I've decided to test some of my recent Jupyter Notebooks on AWS SageMaker.  I ac
 
 Second day of working with AWS SageMaker.  I did a test run of my recent Tensorflow work using the VGG16 model for image classification.  Turns out, training the model was about 5 times faster with SageMaker than on my iMac.  I did use some beefier servers, ml.p2.xlarge for the EC2 instance and ml.eia1.medium for Elastic Inference to add some GPU processing power to the notebook.
 
+## day 85
+
+Another round of AWS SageMaker tests.  This time I focussed on connecting to other services like S3 or RDS.  Pretty straight forward stuff.
+
+## day 86
+
+I created a new Jupyter Notebook in SageMaker to refactor what we currently use for recommendations in our platform.  I love a good re-factor.  The implications are signficant.  It's a perfect sandbox to try new algorithms and to teach the team about algorithms we already use.
+
+## day 87
+
+I started a deep dive on various Sentiment Analysis tools using my local Jupyter Notebook installation.  The first tool I explored was VADER (Valence Aware Dictionary and sEntiment Reasoner), which classifies positive and negative reviews using social media text to train the model.  It worked pretty well.
+
+## day 88
+
+Spent a large chunk of time exploring a blog post on SpaCy only to discover that the new version of the library rendered the blog post almost unusable.  The author pledged to fix it, so maybe I'll revisit later.
+
+## day 89 
+
+I got side tracked by an idea for improving my REST-based query language project.  I have to say I like this approach a lot.  Sorry, still in a private repo.
+
+## day 90
+
+Can you believe I am at day 90 already!  I am amazed how well the 100 days concept works as a motivator.  So much of my learning debt has been erased by knowledge.  I resumed my review of Sentiment Analysis tools with another good example of SpaCy.  Although, I am not getting into the depths of NLP like I had hoped.  I'll keep looking for other sources of learning.
