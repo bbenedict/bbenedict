@@ -403,3 +403,15 @@ I got side tracked by an idea for improving my REST-based query language project
 ## day 90
 
 Can you believe I am at day 90 already!  I am amazed how well the 100 days concept works as a motivator.  So much of my learning debt has been erased by knowledge.  I resumed my review of Sentiment Analysis tools with another good example of SpaCy.  Although, I am not getting into the depths of NLP like I had hoped.  I'll keep looking for other sources of learning.
+
+## day 91
+
+I explored using TextBlob for sentiment analysis.
+
+## day 92
+
+Started a new thread of learning using OpenCV.  This was driven by videos on YouTube of people tracking images while driving.  That really peaked my interest!  However, I spent most of the day in brew & pip install hell.  You know you are in brew install hell when installing OpenCV triggers an upgrade of tmux and the AWS cli.  I barely even use tmux.  I eventually got a video tracking tutorial working and called it a day.
+
+## day 93
+
+I spent most of today's session trying different aspects of image processing using OpenCV.  This seems like a powerful library.
