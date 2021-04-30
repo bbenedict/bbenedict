@@ -415,3 +415,15 @@ Started a new thread of learning using OpenCV.  This was driven by videos on You
 ## day 93
 
 I spent most of today's session trying different aspects of image processing using OpenCV.  This seems like a powerful library.
+
+## day 94
+
+Added request validation to my REST-based query language project.  I never realized how much more secure an API would be if all requests came in as POSTs.  I really like how this project is coming together.
+
+## day 95
+
+A word of warning up front.  This day was a complete side track down a rabbit hole that ultimately led to a slightly improved understanding of less frequently used Agile concepts.  I was checking jobs on LinkedIn, which I do once in a while to see who is hiring and what they are looking for.  I noticed a job where I was listed as a 50% match.  Having never paid much attention to this percentage, I clicked on it to see what I was missing.  Quite a surprise!  Databases?  Agile Methodologies?  Technology leadership(Hey LinkedIn, have you looked at my work history)?  I noticed that some of these items were missing from my skills in my profile, so I took a few skills tests.  Some I passed no problem.  But I was surprised I didn't earn a badge for Agile.  I figured what the hell, let's see what LinkedIn Learning has to offer.  Not sure the course moved the needle for me all that much, especially since I jumped ahead to take the exam and passed anyways.  Still, it was interesting to find out that Extreme Programming was already in use when the Agile Manifesto was written.  See what I mean?  A total rabbit hole.  
+
+## day 96
+
+Added account support to my REST-based query language project.  Technically this was spread over a couple of days even though I am attributing it to a single day here.  I wanted to leave a few days in this project for one final new thread of learning.  Guess that's me also admitting the last 10 days or so were not exactly sequential.
