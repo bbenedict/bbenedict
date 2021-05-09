@@ -2,7 +2,7 @@
 
 I'm doing something along the lines of the 100 days of coding project. 
 Instead of coding a single project, I hope to explore different areas
-like development enviroments, technologies and languages.  So maybe I
+like development environments, technologies and languages.  So maybe I
 should call it 100 days of learning something technical.
 
 These are my areas of focus
@@ -27,7 +27,7 @@ Linked my github repo to [codesandbox.io](https://codesandbox.io) and started tw
 
 ## day 2
 
-It's time for my next programmng assignment from [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning).  "Now you will implement the cost function and gradient for the neural network".  I completed the cost function today and will tackle the gradient next.  There is a HUGE difference in learning between auditing the course versus doing all the programing exercises.  The course is taught by [Andrew Ng](https://www.andrewng.org/), who is an Adjunct Professor from Stanford.  I highly recommend this course and Professor Ng.  I am also doing all my assignments in MATLAB using [MathWorks](https://www.mathworks.com/), which is another interesting online development environment.
+It's time for my next programming assignment from [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning).  "Now you will implement the cost function and gradient for the neural network".  I completed the cost function today and will tackle the gradient next.  There is a HUGE difference in learning between auditing the course versus doing all the programing exercises.  The course is taught by [Andrew Ng](https://www.andrewng.org/), who is an Adjunct Professor from Stanford.  I highly recommend this course and Professor Ng.  I am also doing all my assignments in MATLAB using [MathWorks](https://www.mathworks.com/), which is another interesting online development environment.
 
 ## day 3
 
@@ -72,14 +72,14 @@ Explored useContext with React today.  Yet another way to pass data between comp
 
 ## day 12
 
-Made good progress on the Coursera Machine Learning course over the holidays.  I am actually a little ahead of schedule right now.  The coding work today covered two areas.  I implemented parts of the K-means Clustering algorithm. I then used Principal Component Analysis(PCA) to perform dimensionalty reduction.  And finally, I topped the day off by completing my Legos&reg; [Ghostbusters™ ECTO-1](https://www.lego.com/en-us/product/ghostbusters-ecto-1-10274) project.
+Made good progress on the Coursera Machine Learning course over the holidays.  I am actually a little ahead of schedule right now.  The coding work today covered two areas.  I implemented parts of the K-means Clustering algorithm. I then used Principal Component Analysis(PCA) to perform dimensionality reduction.  And finally, I topped the day off by completing my Legos&reg; [Ghostbusters™ ECTO-1](https://www.lego.com/en-us/product/ghostbusters-ecto-1-10274) project.
 <div>
 <img src="./IMG_2675.jpg" alt="Legos Ghostbusters box|" title="Legos Ghostbusters car complete" height="200" />
 </div>
 
 ## day 13
 
-Some experiments with useMemo in React.  The code is working, but I am pretty sure I am not taking full advantage of the useMemo hook and it's ability to return a memoized value.  Will revisit at a later date, hopefully with a better use case.
+Some experiments with useMemo in React.  The code is working, but I am pretty sure I am not taking full advantage of the useMemo hook and its ability to return a memoized value.  Will revisit at a later date, hopefully with a better use case.
 
 ## day 14
 
@@ -103,11 +103,11 @@ Supporting font size scaling for the visually impaired in simple-react app.
 
 ## day 19
 
-Working on my last programming assignments for Coursera Machine Learning.  After this, I just have a two weeks of lectures to complete to finish the course.  Today I am working on Anomaly Detection.  The task is to estimate the parameters &mu; and &sigma;<sup>2</sup> for a Guassian distribution of a matrix of features.
+Working on my last programming assignments for Coursera Machine Learning.  After this, I just have two weeks of lectures to complete to finish the course.  Today I am working on Anomaly Detection.  The task is to estimate the parameters &mu; and &sigma;<sup>2</sup> for a Gaussian distribution of a matrix of features.
 
 ## day 20
 
-I implemented parts of a Collaborative Filtering system for recommendations.  The specific work was to produce a vectorized implementation for calcualting the gradient of a cost function given a matrix of users x features and movies x features.  As of today, I have completed all programming assignments for Coursera Machine Learning.  QED!  
+I implemented parts of a Collaborative Filtering system for recommendations.  The specific work was to produce a vectorized implementation for calculating the gradient of a cost function given a matrix of users x features and movies x features.  As of today, I have completed all programming assignments for Coursera Machine Learning.  QED!  
 
 ## day 21
 
@@ -138,11 +138,11 @@ No coding today but I am pretty sure this counts as learning.
 
 ## day 27
 
-Spent some time testing more features of CodeSandbox.  I wanted to explore the full developmnt life cycle a bit more by adding automated tests to my test app.  They use Jest, which worked fine for my purposes.  
+Spent some time testing more features of CodeSandbox.  I wanted to explore the full development life cycle a bit more by adding automated tests to my test app.  They use Jest, which worked fine for my purposes.  
 
 ## day 28
 
-Started work on Suport Vector Machines in the python O-Reilly repo.  Just have the basics working for now.
+Started work on Support Vector Machines in the python O-Reilly repo.  Just have the basics working for now.
 
 ## day 29
 
@@ -154,7 +154,7 @@ Had to segue into elasticsearch land for today's entry.  Fixed some issues with 
 
 ## day 31
 
-... and then I had to do some mysql work to fix some anomolies in our database.  
+... and then I had to do some mysql work to fix some anomalies in our database.  
 
 ## day 32
 
@@ -170,7 +170,7 @@ Added the examples from O-Reilly including a new graph in the graphs and plots c
 
 ## day 35
 
-Created a model parameter tester for scikit neural network classifier.  The tester iterates through the different solvers, confgiruations for hidden layers, and other parameters to see what combination gets the best result on the test set.  Included also the worst result for ceiling analysis.  This should come in handy when I try other neural network libraris on the various datasets.
+Created a model parameter tester for scikit neural network classifier.  The tester iterates through the different solvers, configurations for hidden layers, and other parameters to see what combination gets the best result on the test set.  Included also the worst result for ceiling analysis.  This should come in handy when I try other neural network libraries on the various datasets.
 
 ## day 36
 
@@ -194,7 +194,7 @@ Now using dataframes to create graphs from questions that have the most response
 
 ## day 41
 
-I'm starting a new repo today: simple-node-graphql.  Could this be the challenge to REST that everyone is saying it is?  We shall see.  Seems like a simpler way to implement a server API by having a single endpoint and specfiying the data you need at time of request. 
+I'm starting a new repo today: simple-node-graphql.  Could this be the challenge to REST that everyone is saying it is?  We shall see.  Seems like a simpler way to implement a server API by having a single endpoint and specifying the data you need at time of request. 
 
 ## day 42
 
@@ -206,7 +206,7 @@ Side tracked into SQL world for the old day job.  We may have found our first My
 
 ## day 44
 
-I was able to get back to my GraphQL work.  I finally have a working reference implemenation for the equivelent of REST GET with nested resources.  I also refactored the code to make it more clear how queries link to resolvers and data (see day 42).  For example, the query getUsers returns an array of UserObjects that includes the LocationObject for each user retrieved from the userList.
+I was able to get back to my GraphQL work.  I finally have a working reference implementation for the equivalent of REST GET with nested resources.  I also refactored the code to make it more clear how queries link to resolvers and data (see day 42).  For example, the query getUsers returns an array of UserObjects that includes the LocationObject for each user retrieved from the userList.
 
 ## day 44
 
@@ -218,7 +218,7 @@ Added cross validation to Python O-Reilly book examples.
 
 ## day 46
 
-I am starting a new thread based on the learnings from GraphQL.  I really like the query language approach with a single end point on the server.  My plan is to leverage those concepts and adapt them to my approach to REST, which is built on Prototypal Inheritance in Javascript.  Part of this is also to work around some of the drawbacks or challeneges of GraphQL such as the N+1 problem and the lack of wildcard support in queries.
+I am starting a new thread based on the learnings from GraphQL.  I really like the query language approach with a single end point on the server.  My plan is to leverage those concepts and adapt them to my approach to REST, which is built on Prototypal Inheritance in Javascript.  Part of this is also to work around some of the drawbacks or challenges of GraphQL such as the N+1 problem and the lack of wildcard support in queries.
 
 ## day 47
 
@@ -234,7 +234,7 @@ I had one of those interruptions that forces you to put all your side projects o
 
 ## day 49
 
-I resumed work on my REST-based query language by implemention a react client that queries the server.  First version works pretty well.  I am optimistic this is a good approach.
+I resumed work on my REST-based query language by implementation a react client that queries the server.  First version works pretty well.  I am optimistic this is a good approach.
 
 ## day 50
 
@@ -242,7 +242,7 @@ Re-factoring of the client and related server work.  Now supporting object creat
 
 ## day 51
 
-Before my "life happens" interruption, I had started reading about sentiment analysis in the O-Reilly book Introduction to Machine Learning with Python.  I swicthed back to that work to finish what I started.  The implementation was a simple "bag of words" approach.
+Before my "life happens" interruption, I had started reading about sentiment analysis in the O-Reilly book Introduction to Machine Learning with Python.  I switched back to that work to finish what I started.  The implementation was a simple "bag of words" approach.
 
 ## day 52
 
@@ -274,7 +274,7 @@ Spent some time on animations and transformations adding to existing D3.js work.
 
 ## day 59
 
-I jumped ahead in Amelia Wattenberger's D3.js book to look at how charts are created within a Reactjs application. The book recommends using Reactjs to render the svg objects instead of D3.js, which in turn becomes more of a powerful set of utilities to define scales and do other operaions.  Now that is a bit of a surpise.  I am much more likely to create charts in Reactjs than not.  I'll do the remaining examples in Reactjs instead once I refactor the current app a bit.
+I jumped ahead in Amelia Wattenberger's D3.js book to look at how charts are created within a Reactjs application. The book recommends using Reactjs to render the svg objects instead of D3.js, which in turn becomes more of a powerful set of utilities to define scales and do other operations.  Now that is a bit of a surprise.  I am much more likely to create charts in Reactjs than not.  I'll do the remaining examples in Reactjs instead once I refactor the current app a bit.
 
 ## day 60
 
@@ -294,7 +294,7 @@ Added a bar chart to the D3.js app in React.  The method used in the book D3.his
 
 ## day 64
 
-Made a quick seque to cypress.io to explore client side testing for a React app.  I suspect cypress.io will replace some of the other threads of learning I proposed as the start of this project.
+Made a quick segue to cypress.io to explore client side testing for a React app.  I suspect cypress.io will replace some of the other threads of learning I proposed as the start of this project.
 
 ## day 65
 
@@ -302,7 +302,7 @@ More exploration of cypress.io.  I am debating how to handle service responses f
 
 ## day 66
 
-Resuming my exploration of D3.js, I started work on a doughnut chart.  We use these a lot in our application.  I was able to get a basic chart displayed but I need to refactor to the code (as usual) to make it more clear what is happening.
+Resuming my exploration of D3.js, I started work on a doughnut chart.  We use these a lot in our application.  I was able to get a basic chart displayed but I need to refactor to the code (as usual) to make it clearer what is happening.
 
 ## day 67
 
@@ -322,19 +322,19 @@ I did some more work with cypress.io.  For the back end, I brought up a server w
 
 ## day 70
 
-Another side bar, this time back to accessibility.  I am really going through the details now of what it takes to make a full accesible e-learning app.  I watched sereveral videos on YouTube of people with disabilities using screen readers.  All my teams are going to understand accessibility going forward.
+Another side bar, this time back to accessibility.  I am really going through the details now of what it takes to make a full accessible e-learning app.  I watched several videos on YouTube of people with disabilities using screen readers.  All my teams are going to understand accessibility going forward.
 
 ## day 71
 
-Amelia Wattenberger wrote another fantastic blog post about her approach to [using D3.js with Reactjs](https://wattenberger.com/blog/react-and-d3).  I wouldn't be surprised to see an update to her book *Fullstack D3 and Data Visualization*.  She uses the Reactjs hook useRef to access the SVG object which then enables more of the D3.js libary.  I re-wrote two of my charts to use this approach.  
+Amelia Wattenberger wrote another fantastic blog post about her approach to [using D3.js with Reactjs](https://wattenberger.com/blog/react-and-d3).  I wouldn't be surprised to see an update to her book *Fullstack D3 and Data Visualization*.  She uses the Reactjs hook useRef to access the SVG object which then enables more of the D3.js library.  I re-wrote two of my charts to use this approach.  
 
 ## day 72
 
-I resumed my cypress.io work to solve the CI vs. server challenge.  I am trying to write one set of tests, exercising the interface through navigation and interaction, that work with stups or with a server (see day 69).  Turns out the cypress.io stub feature requires you to simluate the calls for GET and POST, which means your tests are not using their navigation methods like visit and click as much.  Miragejs seems like the right solution.  You intercept HTTP calls by defining routes and from there return your mocked data.  The code needs some re-factoring.  When doesn't it?  But I think at this point I have a solution that enables us to run client side tests with a server, which is better for integration tests, and without a server, which is better for CI.
+I resumed my cypress.io work to solve the CI vs. server challenge.  I am trying to write one set of tests, exercising the interface through navigation and interaction, that work with stubs or with a server (see day 69).  Turns out the cypress.io stub feature requires you to simulate the calls for GET and POST, which means your tests are not using their navigation methods like visit and click as much.  Miragejs seems like the right solution.  You intercept HTTP calls by defining routes and from there return your mocked data.  The code needs some re-factoring.  When doesn't it?  But I think at this point I have a solution that enables us to run client side tests with a server, which is better for integration tests, and without a server, which is better for CI.
 
 ## day 73
 
-I dabbled with another one of the langauges listed in my original goals.  This was interesting.  But the learning curve to appreciate the benefit of the language felt longer than I wanted to spend.  I might have to re-think how to spend my last 25+ days on this project.
+I dabbled with another one of the languages listed in my original goals.  This was interesting.  But the learning curve to appreciate the benefit of the language felt longer than I wanted to spend.  I might have to re-think how to spend my last 25+ days on this project.
 
 ## day 74
 
@@ -354,11 +354,11 @@ I made significant progress on my blockchain implementation.  I added digital si
 
 ## day 78
 
-Had to do a research on research day to find my next source of learning.  I ended up on is Tensorflow and the Keras api.  Back into neural nets we go.
+Had to do a research day to find my next source of learning.  I ended up on is Tensorflow and the Keras api.  Back into neural nets we go.
 
 ## day 79 
 
-I found a fantisic course on Keras and Tensorflow on YouTube.  It was sponsored or creatd by [DeepLizard](https://deeplizard.com/) and listed on YouTube as part of [FreeCodeCamp.org](https://www.freecodecamp.org/). You'll find the course here: [Keras with TensorFlow Course - Python Deep Learning and Neural Networks for Beginners Tutorial](https://www.youtube.com/watch?v=qFJeN9V1ZsI&t=1791s).  It's very well done.  I recommend it if you are starting out with Tensorflow and Keras.
+I found a fantisic course on Keras and Tensorflow on YouTube.  It was sponsored or created by [DeepLizard](https://deeplizard.com/) and listed on YouTube as part of [FreeCodeCamp.org](https://www.freecodecamp.org/). You'll find the course here: [Keras with TensorFlow Course - Python Deep Learning and Neural Networks for Beginners Tutorial](https://www.youtube.com/watch?v=qFJeN9V1ZsI&t=1791s).  It's very well done.  I recommend it if you are starting out with Tensorflow and Keras.
 
 ## day 80
 
@@ -366,7 +366,7 @@ Day two of the YouTube course Keras with TensorFlow Course - Python Deep Learnin
 
 ## day 81
 
-Worked through Convolutional Neural Networks matieral in the YouTube course Keras with TensorFlow Course - Python Deep Learning and Neural Networks for Beginners Tutorial. 
+Worked through Convolutional Neural Networks material in the YouTube course Keras with TensorFlow Course - Python Deep Learning and Neural Networks for Beginners Tutorial. 
 
 ## day 82
 
@@ -374,7 +374,7 @@ Closed out the topic with a round of fine-tuning starting with the VGG16 model f
 
 ## day 83
 
-I've decided to test some of my recent Jupyter Notebooks on AWS SageMaker.  I actually plan on exploring many of the AWS ML/AI tool set to see how useful they can be for experimentation and on production.  Today I was able to sping up a basic notebook and run a linear regression.
+I've decided to test some of my recent Jupyter Notebooks on AWS SageMaker.  I actually plan on exploring many of the AWS ML/AI tool set to see how useful they can be for experimentation and on production.  Today I was able to spin up a basic notebook and run a linear regression.
 
 ## day 84
 
@@ -382,11 +382,11 @@ Second day of working with AWS SageMaker.  I did a test run of my recent Tensorf
 
 ## day 85
 
-Another round of AWS SageMaker tests.  This time I focussed on connecting to other services like S3 or RDS.  Pretty straight forward stuff.
+Another round of AWS SageMaker tests.  This time I focused on connecting to other services like S3 or RDS.  Pretty straight forward stuff.
 
 ## day 86
 
-I created a new Jupyter Notebook in SageMaker to refactor what we currently use for recommendations in our platform.  I love a good re-factor.  The implications are signficant.  It's a perfect sandbox to try new algorithms and to teach the team about algorithms we already use.
+I created a new Jupyter Notebook in SageMaker to refactor what we currently use for recommendations in our platform.  I love a good re-factor.  The implications are significant.  It's a perfect sandbox to try new algorithms and to teach the team about algorithms we already use.
 
 ## day 87
 
@@ -410,7 +410,7 @@ I explored using TextBlob for sentiment analysis.
 
 ## day 92
 
-Started a new thread of learning using OpenCV.  This was driven by videos on YouTube of people tracking images while driving.  That really peaked my interest!  However, I spent most of the day in brew & pip install hell.  You know you are in brew install hell when installing OpenCV triggers an upgrade of tmux and the AWS cli.  I barely even use tmux.  I eventually got a video tracking tutorial working and called it a day.
+Started a new thread of learning using OpenCV.  This was driven by videos on YouTube of people tracking images while driving.  That really piqued my interest!  However, I spent most of the day in brew & pip install hell.  You know you are in brew install hell when installing OpenCV triggers an upgrade of tmux and the AWS cli.  I barely even use tmux.  I eventually got a video tracking tutorial working and called it a day.
 
 ## day 93
 
@@ -422,8 +422,20 @@ Added request validation to my REST-based query language project.  I never reali
 
 ## day 95
 
-A word of warning up front.  This day was a complete side track down a rabbit hole that ultimately led to a slightly improved understanding of less frequently used Agile concepts.  I was checking jobs on LinkedIn, which I do once in a while to see who is hiring and what they are looking for.  I noticed a job where I was listed as a 50% match.  Having never paid much attention to this percentage, I clicked on it to see what I was missing.  Quite a surprise!  Databases?  Agile Methodologies?  Technology leadership(Hey LinkedIn, have you looked at my work history)?  I noticed that some of these items were missing from my skills in my profile, so I took a few skills tests.  Some I passed no problem.  But I was surprised I didn't earn a badge for Agile.  I figured what the hell, let's see what LinkedIn Learning has to offer.  Not sure the course moved the needle for me all that much, especially since I jumped ahead to take the exam and passed anyways.  Still, it was interesting to find out that Extreme Programming was already in use when the Agile Manifesto was written.  See what I mean?  A total rabbit hole.  
+A word of warning up front.  This day was a complete side track down a rabbit hole that ultimately led to a slightly improved understanding of less frequently used Agile concepts.  I was checking jobs on LinkedIn, which I do once in a while to see who is hiring and what they are looking for.  I noticed a job where I was listed as a 50% match.  Having never paid much attention to this percentage, I clicked on it to see what I was missing.  Quite a surprise!  Databases?  Agile Methodologies?  Technology leadership (Hey LinkedIn, have you looked at my work history)?  I noticed that some of these items were missing from my skills in my profile, so I took a few skills tests.  Some I passed no problem.  But I was surprised I didn't earn a badge for Agile.  I figured what the hell, let's see what LinkedIn Learning has to offer.  Not sure the course moved the needle for me all that much, especially since I jumped ahead to take the exam and passed anyways.  Still, it was interesting to find out that Extreme Programming was already in use when the Agile Manifesto was written.  See what I mean?  A total rabbit hole.  
 
 ## day 96
 
 Added account support to my REST-based query language project.  Technically this was spread over a couple of days even though I am attributing it to a single day here.  I wanted to leave a few days in this project for one final new thread of learning.  Guess that's me also admitting the last 10 days or so were not exactly sequential.
+
+## day 97
+
+No longer committing to sequential work or even a single day per entry at this point.  All hell has broken loose.  I just don't want it to end!  I decided to go back to my simple-react app and add some CI/CD automations to the project.  Truth is, I am finding that doing things from scratch all over again enables incredible learning.  I may write a book about that some day.  "Today", I built the simple-react app in Docker.
+
+## day 98
+
+Believe or not, I have never created a static Website on S3 before.  That's where I hope to deploy my simple-react app.  I spent the day working with S3, CloudFront, Route 53 and IAM roles to get a basic Web page up and running.  How many times can you do a simple Hello, World test???
+
+## day 99
+
+Added github actions to my simple-react app.  That's the CD part of CI.  Guess what comes next on the last day of my journey?
