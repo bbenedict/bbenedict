@@ -1,0 +1,26 @@
+### 100 days of AI/ML learning
+
+A few years ago I did 100 days of learning. Each day I tried to learn 
+one thing by reading, watching vidoes or coding projects.  It was one 
+of the most rewarding projects I ever started.  It's time to do it again!
+
+My focus this time will be exclusively on AI/ML.  I am again mid-course on
+Coursera.  I also have a list of topics related to NLP and text processing.  
+
+Wish me luck!
+  
+## day 1 (Nov 19, 2022)
+
+Today I watched videos on Lowenshtein Edit Distance, The Wagner Fischer algorithm
+for edit distance and Term Frequency - Inverse Document Frequency (TF-IDF).
+
+Edit distance is the number of edits (change, add, delete) it takes to turn a word 
+into another word. (https://www.youtube.com/watch?v=Cu7Tl7FGigQ&t=1124s)
+The Wagner Fischer approach basically uses a matrix to avoid the redundant, recursive
+approach of the original algorithm.
+
+TF-IDF can be used to vectorize or analyze documents.  TF is the frequency of a word in a document
+(word count / total words). IDF is the log of the total number of documents over the number of docuemnts 
+that have the word ( log(total documents / documents with word) ).  The final value is just TFxIDF.
+(https://www.youtube.com/watch?v=D2V1okCEsiE&t=446s).  You can create a vectorized version of the
+document from the TF-IDF of each word in your dictionary for the document.
