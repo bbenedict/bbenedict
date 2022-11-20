@@ -21,6 +21,13 @@ approach of the original algorithm.
 
 TF-IDF can be used to vectorize or analyze documents.  TF is the frequency of a word in a document
 (word count / total words). IDF is the log of the total number of documents over the number of docuemnts 
-that have the word ( log(total documents / documents with word) ).  The final value is just TFxIDF.
+that have the word ( log(total documents / documents with word) ). The final value is just TFxIDF.
 (https://www.youtube.com/watch?v=D2V1okCEsiE&t=446s).  You can create a vectorized version of the
 document from the TF-IDF of each word in your dictionary for the document.
+
+## day 1 (Nov 20, 2022)
+
+Continued on my Coursera NLP certification with Natural Language Processing with Probabilistic Models.
+Using minimum edit distance in an applicable sense for auto-correct. Interesting that there was a slight
+difference in the use of the cost of a replace operation.  The course also referred to the matrix approach
+as a good example of Dynamic Programming.
