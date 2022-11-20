@@ -25,7 +25,7 @@ that have the word ( log(total documents / documents with word) ). The final val
 (https://www.youtube.com/watch?v=D2V1okCEsiE&t=446s).  You can create a vectorized version of the
 document from the TF-IDF of each word in your dictionary for the document.
 
-## day 1 (Nov 20, 2022)
+## day 2 (Nov 20, 2022)
 
 Continued on my Coursera NLP certification with Natural Language Processing with Probabilistic Models.
 Using minimum edit distance in an applicable sense for auto-correct. Interesting that there was a slight
