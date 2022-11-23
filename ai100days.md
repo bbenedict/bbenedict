@@ -35,11 +35,11 @@ as a good example of Dynamic Programming.
 ## day 3 (Nov 21, 2022)
 
 I did some perusing of Natural Languges Processing with Transformers and Practical Statistics for
-Data Scientists bith published by O'Reilly. Causing me to wonder yet again why I don't just use their
+Data Scientists both published by O'Reilly, causing me to wonder yet again why I don't just use their
 subscription model.  I read through the QA chapter in the transformer book.  The example is very similar to 
 what my current company does. Sometimes, this book focuses a little too much on logistical steps.  You could
 just show us the data files and the shape of the data needed rather than take us through each programming step.
-I used the stats book to brush up on bagging, trees and random forrest for a project I am hoping to do for
+I used the stats book to brush up on bagging, trees and random forest for a project I am hoping to do for
 this 100 days project.
 
 ## day 4 (Nov 22, 2022)
