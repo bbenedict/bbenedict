@@ -31,3 +31,26 @@ Continued on my Coursera NLP certification with Natural Language Processing with
 Using minimum edit distance in an applicable sense for auto-correct. Interesting that there was a slight
 difference in the use of the cost of a replace operation.  The course also referred to the matrix approach
 as a good example of Dynamic Programming.
+
+## day 2 (Nov 21, 2022)
+
+I did some perusing of Natural Languges Processing with Transformers and Practical Statistics for
+Data Scientists bith published by O'Reilly. Causing me to wonder yet again why I don't just use their
+subscription model.  I read through the QA chapter in the transformer book.  The example is very similar to 
+what my current company does. Sometimes, this book focuses a little too much on logistical steps.  You could
+just show us the data files and the shape of the data needed rather than take us through each programming step.
+I used the stats book to brush up on bagging, trees and random forrest for a project I am hoping to do for
+this 100 days project.
+
+## day 3 (Nov 22, 2022)
+
+Back to Coursera NLP.  We covered Parts of Speech Tagging, Markov Chains and the Vertabi algorithm.  I will
+definitely need the lab to better understand this week.
+
+### Small break from the project for the holidays.  See you in a few days
+
+
+
+
+
+
