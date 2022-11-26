@@ -53,7 +53,8 @@ definitely need the lab to better understand this week.
 
 I have resumed the project after a few days of gorging on turkey and wine.  It's always a little challenging to get
 back into rhythm.  The Coursera NLP course features N-Grams and language models this week. Unfortunately, I am finding that
-the content on Perplexity is lacking key details. I'll definitely need to supplement what I am learning.
+the content on Perplexity is lacking key details. I'll definitely need to supplement what I am learning, which I did
+with this video (https://www.youtube.com/watch?v=BAN3NB_SNHY).
 
 
 
