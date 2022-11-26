@@ -47,13 +47,13 @@ this 100 days project.
 Back to Coursera NLP.  We covered Parts of Speech Tagging, Markov Chains and the Vertabi algorithm.  I will
 definitely need the lab to better understand this week.
 
-*USA 0 England 0* -- No learning today but a very good day none the less!
+## *USA 0 England 0* -- No learning today but a very good day none the less!
 
 ## day 5 (Nov 26, 2022)
 
 I have resumed the project after a few days of gorging on turkey and wine.  It's always a little challenging to get
-back into rhythm.  The Coursera course covers N-Grams and language models this week. Unfortunately, I am finding the 
-video on Perplexity is lacking key details. I'll definitely need to supplement what I am learning
+back into rhythm.  The Coursera NLP course features N-Grams and language models this week. Unfortunately, I am finding that
+the content on Perplexity is lacking key details. I'll definitely need to supplement what I am learning.
 
 
 
