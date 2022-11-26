@@ -47,7 +47,7 @@ this 100 days project.
 Back to Coursera NLP.  We covered Parts of Speech Tagging, Markov Chains and the Vertabi algorithm.  I will
 definitely need the lab to better understand this week.
 
-*USA 0 England 0* No learning today a very good day none the less!
+*USA 0 England 0* -- No learning today a very good day none the less!
 
 ## day 5 (Nov 26, 2022)
 
