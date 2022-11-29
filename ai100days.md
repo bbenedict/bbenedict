@@ -56,5 +56,7 @@ back into rhythm.  The Coursera NLP course features N-Grams and language models 
 the content on Perplexity is lacking key details. I'll definitely need to supplement what I am learning, which I did
 with this video (https://www.youtube.com/watch?v=BAN3NB_SNHY).
 
+## day 6 (Nov 28, 2022)
 
+Completed my labs for auto-correction in the Coursera NLP course.  This helped re-inforce the edit distance lessons.
 
