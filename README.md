@@ -6,10 +6,6 @@
 * Spent a lot of my career building e-learning and content systems
 * Was lucky enough to work on the first OLAP server Essbase 
 
-### Other projects
-
-[100 days of AI/ML learning](https://github.com/bbenedict/bbenedict/blob/main/ai100days.md)
-
 [100 days of learning](https://github.com/bbenedict/bbenedict/blob/main/100days.md)
 
  
