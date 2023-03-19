@@ -10,5 +10,4 @@
 
 ## Did you really say that?
 
-> I once told someone I wanted to create the best software ever created that people only 
-> discover after I am gone.
+I once said I wanted to create the best software ever created that people only discover after I am gone.
