@@ -1,4 +1,4 @@
-## About me
+# About me
 
 * CTO/VP of Engineering and life time software developer
 * Currently developing NLP, IDP, RPA and other AI-based support automation solutions @ [Capacity](https://capacity.com/)
@@ -8,6 +8,6 @@
 
 [100 days of learning](https://github.com/bbenedict/bbenedict/blob/main/100days.md)
 
-# Did you really say that?
+### Did you really say that?
 
 I once said I wanted to create the best software ever created that people only discover after I am gone.
