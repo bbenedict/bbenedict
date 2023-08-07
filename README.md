@@ -1,6 +1,6 @@
 # About me
 
-* CTO / VP of Engineering / Technical advisor / Investor
+* CTO / VP of Engineering / Technical advisor
 * Currently developing AI technology for support automation @ [Capacity](https://capacity.com/)
 * Life time software developer
 * Hands on technology executive with experience leading teams for startups up to Fortune 500 companies
