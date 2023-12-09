@@ -1,11 +1,13 @@
 ### 100 days of ~~coding~~ learning
 
-I'm doing something along the lines of the 100 days of coding project. 
-Instead of coding a single project, I hope to explore different areas
-like development environments, technologies and languages.  So maybe I
-should call it 100 days of learning something technical.
+I started this project in Dec 2020 and finished mid-2021.  What I did
+was something along the lines of the 100 days of coding project. 
+Instead of coding a single project, I explored different areas like
+development environments, technologies and languages.  Maybe I
+should have called it 100 days of learning something technical? I
+captured everything in a daily log file which you can read below.
 
-These are my areas of focus
+These were my areas of focus
 
 * ML/AI
   * Coursera ML/AI courses
