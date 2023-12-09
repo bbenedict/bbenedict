@@ -1,6 +1,6 @@
 ### 100 days of ~~coding~~ learning
 
-I started this project in Dec 2020 and finished 2021.  What I did
+I started this project in Dec 2020 and finished in 2021.  What I did
 was something along the lines of the 100 days of coding project. 
 Instead of coding a single project, I explored different areas like
 development environments, technologies and languages.  Maybe I
