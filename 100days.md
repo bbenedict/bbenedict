@@ -5,7 +5,8 @@ was something along the lines of the 100 days of coding project.
 Instead of coding a single project, I explored different areas like
 development environments, technologies and languages.  Maybe I
 should have called it 100 days of learning something technical? I
-captured everything in a daily log file which you can read below.
+documented everything I did, or tried to do, in a daily log file 
+that you can read below.
 
 These were my areas of focus
 
