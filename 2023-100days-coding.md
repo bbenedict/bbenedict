@@ -91,3 +91,10 @@ unit tests for paths and nodes, along with one scenario test.  Hopefully, this w
 ## day 7
 
 Today I refactored the app to use data classes.
+
+## day 8
+
+Added support for cohere generate.  cohere doesn't seems to support context the way openai does so will need
+to create a context data structure such that each adapater can map that to the correct data structure.
+I new this was coming as soon as I added a second integration.
+
