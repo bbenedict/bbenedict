@@ -98,3 +98,11 @@ Added support for cohere generate.  cohere doesn't seems to support context the 
 to create a context data structure such that each adapater can map that to the correct data structure.
 I new this was coming as soon as I added a second integration.
 
+## day 9
+
+Context class created.  Now used with openai adapter.  Each adapter will need to convert the general Context
+class into the specific needs of the API.
+
+Added a way to validate a third party API, which was needed to validate the context changes.  Later we can
+automate this to provide a general status on third party API's up-time/status or to monitor if important parts 
+of the API have changed.
