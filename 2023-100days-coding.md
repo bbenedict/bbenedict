@@ -88,7 +88,7 @@ Today I refactored the app to use data classes.
 ## day 8
 
 Added support for cohere generate.  cohere doesn't seems to support context the way openai does so will need
-to create a context data structure such that each adapater can map that to the correct data structure.
+to create a context data structure such that each adapter can map that to the correct data structure.
 I new this was coming as soon as I added a second integration.
 
 ## day 9
@@ -112,5 +112,11 @@ handling of these common paramaters into a single function or class.
 
 ## day 12
 
-I listened to Martin.  Introduced a base adapater class that handles all common paramaters.  This led
+I listened to Martin.  Introduced a base adapter class that handles all common paramaters.  This led
 to a furher refinement of the config object.  I suspect some day the config will also become a dataclass.
+
+## day 13
+
+Went deep on type hints today.  Very interesting, although I am a little concerned I am just adding overhead
+to the project.  Created shell scripts to run type checking and lint, will eventually add to github actions.
+
