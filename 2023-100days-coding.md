@@ -117,7 +117,7 @@ Re-factored adapters to use the context class.
 ## day 11
 
 Added the common parameters to each adapter (i.e temperature, max_tokens).  If Martin Fowler, author of
-*Refactoring: Improving the Design of Existing Code* saw this work, he'd tell me to re-factor the
+*Refactoring: Improving the Design of Existing Code*, saw this work, he'd tell me to re-factor the
 handling of these common paramaters into a single function or class.
 
 ## day 12
