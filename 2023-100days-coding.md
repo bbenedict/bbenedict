@@ -43,7 +43,7 @@ Here's what I am hoping to learn:
 * How do you validate a package where a significant portion of the app uses third party APIs
   * How do you create automated tests without driving up costs
   * How do you track if the third party API has changed
-* What is the workflow to contibute to an open source project
+* What is the process to contibute to an open source project
   * Likely to use an existing project for this part
   * What is key to following the fork and pull request process
 * Your live, what's next
