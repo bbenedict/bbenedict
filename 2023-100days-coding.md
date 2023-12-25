@@ -120,3 +120,10 @@ to a furher refinement of the config object.  I suspect some day the config will
 Went deep on type hints today.  Very interesting, although I am a little concerned I am just adding overhead
 to the project.  Created shell scripts to run type checking and lint, will eventually add to github actions.
 
+## day 14
+
+Started organizing example paths into folders.  Example paths also help with testing.  
+
+## day 15
+
+Modified the mock adapter to simulate temperature and max_tokens.  This helps test the BaseAdapter class.
