@@ -127,3 +127,10 @@ Started organizing example paths into folders.  Example paths also help with tes
 ## day 15
 
 Modified the mock adapter to simulate temperature and max_tokens.  This helps test the BaseAdapter class.
+
+## day 16
+
+Added user prompts to the node config.  This enables dialogs.  By default, the output of one node is the 
+input to the next node.  But sometimes you want the output of one node to be the context instead.  I'll
+need to create an example to explain this in the docs for sure.
+
