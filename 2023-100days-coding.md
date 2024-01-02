@@ -134,3 +134,10 @@ Added user prompts to the node config.  This enables dialogs.  By default, the o
 input to the next node.  But sometimes you want the output of one node to be the context instead.  I'll
 need to create an example to explain this in the docs for sure.
 
+Just like my 2021 100 days experiment, I was a little distracted for a few days by a Christmas present!
+INSERT DELOREAN PHOTO HERE
+
+## 17
+
+DeLorean finished.  Back to work.  Added support for HuggingFace external API today. I plan to also support
+downloaded or local models.
