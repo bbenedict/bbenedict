@@ -154,3 +154,7 @@ Also created a generalized prompt creation function that considers context to th
 Finished hugging face local support. Created paramater mapping for cases where parameter names don't match exactly.
 between providers or models. Many models use max_tokens but hugging face uses max_length or max_new_tokens.
 
+## day 20
+
+Input data added to existing adapters.  First version of it anyways.  Still need output data, tests and 
+re-factor.  But it works pretty well!
