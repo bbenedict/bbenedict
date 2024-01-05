@@ -139,12 +139,18 @@ Just like my 2021 100 days of learning experiment, I was distracted for a few da
 <img src="./IMG_3214.jpeg" alt="Legos Ghostbusters assembly in action|" title="Legos DeLorean" height="200"/>
 </div>
 
-## 17
+## day 17
 
 DeLorean finished.  Back to work.  Added support for HuggingFace external API today. I plan to also support
 downloaded or local models.
 
-## 18
+## day 18
 
 First version of hugging face local models.  Need to add paramater support.  
 Also created a generalized prompt creation function that considers context to the base adapter.
+
+## day 19
+
+Finished hugging face local support. Created paramater mapping for cases where parameter names don't match exactly.
+between providers or models. Many models use max_tokens but hugging face uses max_length or max_new_tokens.
+
