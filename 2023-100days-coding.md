@@ -158,3 +158,8 @@ between providers or models. Many models use max_tokens but hugging face uses ma
 
 Input data added to existing adapters.  First version of it anyways.  Still need output data, tests and 
 re-factor.  But it works pretty well!
+
+## day 21
+
+Initial logger.  Using a singleton pattern. Will pepper logging over the code as I go.
+
