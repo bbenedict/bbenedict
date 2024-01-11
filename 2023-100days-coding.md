@@ -12,9 +12,15 @@ _, messages = get_completion(client,
                              stream_response=True
                              )
 
-_, messages = get_completion(client, content_callback, user_prompt="Who was the most valuable player?", messages=messages)
+_, messages = get_completion(client,
+                             content_callback,
+                             user_prompt="Who was the most valuable player?",
+                             messages=messages)
 
-_, messages = get_completion(client, content_callback, user_prompt="Who was the most recent MVP of this?", messages=messages)
+_, messages = get_completion(client,
+                             content_callback,
+                             user_prompt="Who was the most recent MVP of this?",
+                             messages=messages)
 
 ```
 
