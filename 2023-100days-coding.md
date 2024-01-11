@@ -163,3 +163,8 @@ re-factor.  But it works pretty well!
 
 Initial logger.  Using a singleton pattern. Will pepper logging over the code as I go.
 
+## day 22
+
+Re-implement singleton pattern of the logger as the first attempt didn't quite work as expected.  All good now.
+
+
