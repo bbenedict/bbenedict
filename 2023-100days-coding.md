@@ -173,4 +173,7 @@ Initial logger.  Using a singleton pattern. Will pepper logging over the code as
 
 Re-implement singleton pattern of the logger as the first attempt didn't quite work as expected.  All good now.
 
+## day 23
+
+Re-factor nodes to support node_type (partially).  Pre-cursor to introducing metic nodes and other types of nodes.
 
