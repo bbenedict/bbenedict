@@ -175,5 +175,10 @@ Re-implement singleton pattern of the logger as the first attempt didn't quite w
 
 ## day 23
 
-Re-factor nodes to support node_type (partially).  Pre-cursor to introducing metic nodes and other types of nodes.
+Re-factor nodes to support node_type (partially).  Pre-cursor to introducing metric nodes and other types of nodes.
+
+## day 24
+
+Completed re-factor. Minor cleanup to create SRC folder for primary classes.
+
 
