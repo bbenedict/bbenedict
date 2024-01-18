@@ -181,4 +181,10 @@ Re-factor nodes to support node_type (partially).  Pre-cursor to introducing met
 
 Completed re-factor. Minor cleanup to create SRC folder for primary classes.
 
+## day 25
+
+Starting on metrics with a bias metric.  Today was mostly researching and prototyping.  Finding the right solution
+will be harder on this one than writing the code to implement.
+
+
 
