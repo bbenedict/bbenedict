@@ -186,5 +186,8 @@ Completed re-factor. Minor cleanup to create SRC folder for primary classes.
 Starting on metrics with a bias metric.  Today was mostly researching and prototyping.  Finding the right solution
 will be harder on this one than writing the code to implement.
 
+## day 26
+
+Metric steps implemented.  Still need to add unit tests.  Still concerns over the model.
 
 
