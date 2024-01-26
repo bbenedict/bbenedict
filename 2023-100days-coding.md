@@ -190,4 +190,10 @@ will be harder on this one than writing the code to implement.
 
 Metric steps implemented.  Still need to add unit tests.  Still concerns over the model.
 
+## day 27
+
+Add tests to metrics including a mock metric. Renamed a few of the major exports.  We now have CompletionPath
+CompletionModel, CompletionMetric and CompletionResponse
+
+
 
