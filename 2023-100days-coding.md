@@ -55,7 +55,7 @@ Here we go.  100 days of coding starts now (or did 7 days ago).
 ## day 1
 
 I reviewed the code of the unified completion function and began to map out my plan.  I decided I would need
-paths that connect nodes, and each node would need a config to speak with the LLM.  Made a copy of the project
+paths that connect steps, and each step would need a config to speak with the LLM.  Made a copy of the project
 and started re-factoring.
 
 ## day 2
@@ -73,7 +73,7 @@ they used.  I decided to go with poetry for package management and building.  Wa
 
 Spent way too much time organizing things into folders.  Isn't that always the case?  I took some of the sample 
 output from day 2 and moved it to a new project.  Have to admit I was inspried by the aforementioned hilarious 
-conversation.  The new project, called dialogs, will be my test reference implementation of the new package.
+conversation.  The new project will be my test reference implementation of the new package.
 
 ## day 5
 
@@ -84,8 +84,8 @@ project is back on pipenv and I created a shell script to remove the library, cl
 
 ## day 6
 
-Test, tests and more tests.  I created a mock adapter to simulate calling a third party API.  I now have basic
-unit tests for paths and nodes, along with one scenario test.  Hopefully, this will help speed up development.
+Tests, tests and more tests.  I created a mock adapter to simulate calling a third party API.  I now have basic
+unit tests for paths and steps, along with one scenario test.  Hopefully, this will help speed up development.
 
 ## day 7
 
@@ -136,8 +136,8 @@ Modified the mock adapter to simulate temperature and max_tokens.  This helps te
 
 ## day 16
 
-Added user prompts to the node config.  This enables dialogs.  By default, the output of one node is the 
-input to the next node.  But sometimes you want the output of one node to be the context instead.  I'll
+Added user prompts to the step config.  This enables dialogs.  By default, the output of one step is the 
+input to the next step.  But sometimes you want the output of one step to be the context instead.  I'll
 need to create an example to explain this in the docs for sure.
 
 Just like my 2021 100 days of learning experiment, I was distracted for a few days by a Christmas present!
@@ -153,7 +153,7 @@ downloaded or local models.
 ## day 18
 
 First version of hugging face local models.  Need to add paramater support.  
-Also created a generalized prompt creation function that considers context to the base adapter.
+Also created a generalized prompt creation function that considers context in the base adapter.
 
 ## day 19
 
@@ -175,11 +175,11 @@ Re-implement singleton pattern of the logger as the first attempt didn't quite w
 
 ## day 23
 
-Re-factor nodes to support node_type (partially).  Pre-cursor to introducing metric nodes and other types of nodes.
+Re-factor steps to support step_type (partially).  Pre-cursor to introducing metric steps and other types of steps.
 
 ## day 24
 
-Completed re-factor. Minor cleanup to create SRC folder for primary classes.
+Completed re-factor. Minor cleanup to create src folder for primary classes.
 
 ## day 25
 
@@ -193,7 +193,7 @@ Metric steps implemented.  Still need to add unit tests.  Still concerns over th
 ## day 27
 
 Add tests to metrics including a mock metric. Renamed a few of the major exports.  We now have CompletionPath
-CompletionModel, CompletionMetric and CompletionResponse
+CompletionModel, CompletionMetric and CompletionResponse.
 
 ## day 28
 
