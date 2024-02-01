@@ -209,6 +209,11 @@ now. Some are good at the more well known AI bias issues like gender and race.  
 bias such as age or economic bias.  I spent a fair amount of time examining models and different types of bias.  
 Learned a lot!!  Just didn't advance this project much during that time.
 
+## day 30 
+
+Added task and steps prompt template.  This is also called Instructions + Questions and other things.  Need to add better
+test for the different prompt templates.
+
 
 
 
