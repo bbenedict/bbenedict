@@ -195,5 +195,20 @@ Metric steps implemented.  Still need to add unit tests.  Still concerns over th
 Add tests to metrics including a mock metric. Renamed a few of the major exports.  We now have CompletionPath
 CompletionModel, CompletionMetric and CompletionResponse
 
+## day 28
+
+First attempt at completion templates using "act as if" for first template.
+
+## day 29
+
+Lot's of re-factoring to better support prompt templates.  More work to go.  
+
+I wanted to capture a big side track on bias in AI.  I have a bias metric in this project using one of the most downloaded 
+models from Hugging Face.  As I noted on day 26, I have concerns over the effectiveness of the model.  I've tried a couple 
+now. Some are good at the more well known AI bias issues like gender and race.  But most can not handle other types of
+bias such as age or economic bias.  I spent a fair amount of time examining models and different types of bias.  
+Learned a lot!!  Just didn't advance this project much during that time.
+
+
 
 
