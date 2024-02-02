@@ -214,6 +214,12 @@ Learned a lot!!  Just didn't advance this project much during that time.
 Added task and steps prompt template.  This is also called Instructions + Questions and other things.  Need to add better
 test for the different prompt templates.
 
+## day 31
 
+Sentiment analysis metric
+
+## day 32
+
+Chain of thought and examples templates.
 
 
