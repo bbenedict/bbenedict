@@ -222,4 +222,25 @@ Sentiment analysis metric
 
 Chain of thought and examples templates.
 
+## day 33
+
+Accuracy metric using semantic simularity.  Works pretty well but the user must provide reference content.
+
+## day 35
+
+Added rouge scores.  Pretty straight forward after adding accuracy.
+
+## day 36
+
+Worked more on bias.  Now have a working example of combining two models using arithmatic mean.
+
+## day 37
+
+Knocking down some tech debt.  I track these in code using TODO: comments.  Highly recommend this approach.
+
+## day 38
+
+Lot's of unit tests for metrics and templates.
+
+
 
