@@ -242,5 +242,13 @@ Knocking down some tech debt.  I track these in code using TODO: comments.  High
 
 Lot's of unit tests for metrics and templates.
 
+## day 37
+
+Update bias approach based on GUAX project
+
+## day 38
+
+Add logging to bias metric.  
+
 
 
