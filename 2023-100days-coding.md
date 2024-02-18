@@ -254,5 +254,7 @@ Update bias approach based on GUAX project
 
 Add logging to bias metric.  
 
+## day 41
 
+Add hallucination from GAUX project.  
 
