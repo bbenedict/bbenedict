@@ -203,10 +203,10 @@ First attempt at completion templates using "act as if" for first template.
 
 Lot's of re-factoring to better support prompt templates.  More work to go.  
 
-I wanted to capture a big side track on bias in AI.  I have a bias metric in this project using one of the most downloaded 
-models from Hugging Face.  As I noted on day 26, I have concerns over the effectiveness of the model.  I've tried a couple 
-now. Some are good at the more well known AI bias issues like gender and race.  But most can not handle other types of
-bias such as age or economic bias.  I spent a fair amount of time examining models and different types of bias.  
+TANGENT: I wanted to capture a big side track on bias in AI.  I have a bias metric in this project using one of the most 
+downloaded models from Hugging Face.  As I noted on day 26, I have concerns over the effectiveness of the model.  I've 
+tried a couple now. Some are good at the more well known AI bias issues like gender and race.  But most can not handle 
+other types of bias such as age or economic bias.  I spent a fair amount of time examining models and different types of bias.  
 Learned a lot!!  Just didn't advance this project much during that time.
 
 ## day 30 
@@ -242,11 +242,15 @@ Knocking down some tech debt.  I track these in code using TODO: comments.  High
 
 Lot's of unit tests for metrics and templates.
 
-## day 37
+TANGENT: Capturing another side track on Generative Ai User eXperience (GAUX).  This includes accuracy, hallucination,
+bias, effectiveness and performance. All the metrics from that project will find their way into this project.  That repo 
+will get shared before this one for sure.  
+
+## day 39
 
 Update bias approach based on GUAX project
 
-## day 38
+## day 40
 
 Add logging to bias metric.  
 
