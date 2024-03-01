@@ -256,5 +256,56 @@ Add logging to bias metric.
 
 ## day 41
 
-Add hallucination from GAUX project.  
+Add hallucination from GAUX project.
+
+## day 42
+
+Working on performance in GAUX project to bring that metric back to completion paths.  Setting up a timer is easy.
+Figure out how to measure this in the context of a completion path is a bit challenging.
+
+## day 43
+
+Figured it out!  Using a sigmoid function.  Actually, using an inverted, adjusting, sigmoid function.   
+
+## day 44
+
+Lot's of fun using Google Collab to test diffrent sigmoid functions and parameters of sigmoids.  When timing code
+sub 1-second, you need a more aggressive slope around the inflection point to get meaningful scores.  Likewise,
+when timing code that is many seconds, you need a more gradual slope to get meaningful scores.
+
+## day 45
+
+Officially pulled the timer class into a new project called timer_score.  This is not really a tangent, and it helps 
+meets one of my other goals of this project.  That is getting more familiar with open sourced projects.  I may not 
+open source completion paths but I am finding it is a great sandbox for related projects like GAUX and timer_score.
+
+## day 46
+
+timer_score repo set up.  Working on converting the class into a project.
+
+## day 47
+
+More of the same (see day 46).
+
+## day 48
+
+Re-factoring the code.  Adding checkpoints and other supporting functions.  Checkpoints are key to LLM performance to track both
+time to first token and total performance.
+
+## day 49
+
+Deep dive on docs for timer_score.
+
+## day 50
+
+Tests, tests and more tests.  I am sure other people do not find writing tests as interesting as I do.
+
+## day 51
+
+Lint, hints (mypy), code coverage reports, license file, etc.
+
+## day 52
+
+Decided to inclue a Jupyter notebook of my sigmoid research in the project.  This will help people understand the adjusting
+part of the sigmoid function.  Really, only need to finish API documentation next before it might be time to publish. 
 
