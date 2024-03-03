@@ -311,7 +311,7 @@ part of the sigmoid function.  Really, only need to finish API documentation nex
 
 ## day 53
 
-I did it! My first open source library.  timer-score is like on pypi.  This will allow me to add a performance score to
+I did it! My first open source library.  timer-score is live on pypi.  This will allow me to add a performance score to
 completion paths.
 
 ## day 54
