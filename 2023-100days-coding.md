@@ -309,3 +309,13 @@ Lint, hints (mypy), code coverage reports, license file, etc.
 Decided to inclue a Jupyter notebook of my sigmoid research in the project.  This will help people understand the adjusting
 part of the sigmoid function.  Really, only need to finish API documentation next before it might be time to publish. 
 
+## day 53
+
+I did it! My first open source library.  timer-score is like on pypi.  This will allow me to add a performance score to
+completion paths.
+
+## day 54
+
+Re-factored guax to use timer-score. Works great!
+
+
