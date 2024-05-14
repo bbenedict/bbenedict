@@ -1,3 +1,5 @@
+I started this project in late 2023 to learn more about LLMs, prompting and so many other AI topics.  By the time I got half way through, I felt I could learn better following a different path.  No regrets for starting this.  But it's time to make a change.
+
 ### 100 days of coding
 
 We're coming to the end of 2023 and my brain is telling me I haven't tried to learn enough this year.  This usually happens around Nov.  By Dec, I am working on something in anticipation of the inevitable New Year's resolution.
